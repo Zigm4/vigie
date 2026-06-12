@@ -1,0 +1,2718 @@
+L  333/164 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+27.12.2022  
+
+DIRECTIVE (UE) 2022/2557 DU PARLEMENT EUROPÉEN ET DU CONSEIL 
+
+du 14 décembre 2022
+
+sur la résilience des entités critiques, et abrogeant la directive 2008/114/CE du Conseil 
+
+(Texte présentant de l’intérêt pour l’EEE) 
+
+LE PARLEMENT EUROPÉEN ET LE CONSEIL DE L’UNION EUROPÉENNE,
+
+vu le traité sur le fonctionnement de l’Union européenne, et notamment son article 114,
+
+vu la proposition de la Commission européenne,
+
+après transmission du projet d’acte législatif aux parlements nationaux,
+
+vu l’avis du Comité économique et social européen (1),
+
+vu l’avis du Comité des régions (2),
+
+statuant conformément à la procédure législative ordinaire (3),
+
+considérant ce qui suit:
+
+(1)
+
+(2)
+
+Les entités critiques, en tant que fournisseurs de services essentiels, jouent un rôle indispensable dans le maintien de 
+fonctions sociétales ou d’activités économiques vitales dans le marché intérieur, dans le contexte d’une économie de 
+l’Union  de  plus  en  plus  interdépendante.  Par  conséquent,  il  est  essentiel  de  fixer  un  cadre  de  l’Union  visant  tant  à 
+renforcer la résilience des entités critiques dans le marché intérieur en établissant des règles minimales harmonisées 
+qu’à les aider au moyen de mesures de soutien et de supervision cohérentes et spécifiques.
+
+La  directive  2008/114/CE (4) du  Conseil  établit  une  procédure  de  désignation  des  infrastructures  critiques 
+européennes dans les secteurs de l’énergie et des transports dont la perturbation ou la destruction aurait un impact 
+transfrontière  significatif  sur  deux  États  membres  au  moins.  Cette directive  vise  exclusivement  la  protection de  ces 
+infrastructures.  Toutefois,  l’évaluation  de  la  directive  2008/114/CE  réalisée  en  2019  a  montré  qu’en  raison  de  la 
+nature  de  plus  en plus  interconnectée  et  transfrontière  des  activités faisant  appel  à  des  infrastructures  critiques,  les 
+mesures  de  protection  portant  sur  des  biens  individuels  ne  suffisent  pas  à  elles  seules  pour  empêcher  toute 
+perturbation. Par conséquent, il est nécessaire de réorienter l’approche en vue de faire en sorte que les risques soient 
+mieux  pris  en  compte,  que  le  rôle  et  les  obligations  des  entités  critiques,  en  tant  que  fournisseurs  de  services 
+essentiels  au  fonctionnement  du  marché  intérieur,  soient  mieux  définis  et  cohérents,  et  que  des  règles  de  l’Union 
+
+JO C 286 du 16.7.2021, p. 170.
+JO C 440 du 29.10.2021, p. 99.
+
+(1)
+(2)
+(3) Position  du  Parlement européen  du  22  novembre 2022  (non  encore  parue  au  Journal officiel)  et  décision  du  Conseil  du  8  décembre 
+
+2022.
+
+(4) Directive  2008/114/CE  du  Conseil  du  8  décembre  2008  concernant  le  recensement  et  la  désignation  des  infrastructures  critiques 
+
+européennes ainsi que l’évaluation de la nécessité d’améliorer leur protection (JO L 345 du 23.12.2008, p. 75).
+
+27.12.2022 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+L  333/165  
+
+soient adoptées afin  de renforcer la résilience  des entités critiques. Les entités critiques devraient être en mesure de 
+renforcer  leur  capacité  à  prévenir  les  incidents  susceptibles  de  perturber  la  fourniture  de  services  essentiels,  à  s’en 
+protéger, à y réagir, à y résister, à les atténuer, à les absorber, à s’y adapter et à s’en remettre.
+
+(3)
+
+(4)
+
+(5)
+
+Si un certain nombre de mesures prises au niveau de l’Union, telles que  le programme européen de protection des 
+infrastructures  critiques,  et  au  niveau  national  visent  à  soutenir  la  protection  des  infrastructures  critiques  dans 
+l’Union, il convient d’en faire davantage pour que les entités qui exploitent ces infrastructures soient mieux équipées 
+pour  faire  face  aux  risques  pesant  sur  leurs  activités  qui  pourraient  entraîner  une  perturbation  de  la  fourniture  de 
+services essentiels. Il convient aussi d’en faire davantage pour mieux équiper ces entités, car les menaces forment un 
+paysage  dynamique,  qui  comprend  des  menaces  hybrides  et  terroristes  en  évolution,  et  des  interdépendances 
+croissantes  entre  les  infrastructures  et  les secteurs. En outre,  il  existe un risque  physique accru  lié aux catastrophes 
+naturelles  et  au  changement  climatique,  qui  augmente  la  fréquence  et  l’ampleur  des  phénomènes  météorologiques 
+extrêmes et entraîne des changements à long terme des conditions climatiques moyennes, susceptibles de réduire la 
+capacité, l’efficacité et la durée de vie de certains types d’infrastructures si des mesures d’adaptation au changement 
+climatique ne sont pas mises en place. De plus, le marché intérieur est caractérisé par  une  fragmentation en ce qui 
+concerne  le  recensement  des  entités  critiques,  les  secteurs  et  les  catégories  d’entités  concernés  n’étant  pas 
+systématiquement  reconnus  comme  critiques  dans  tous  les  États  membres.  La  présente  directive  devrait  donc 
+instaurer  un niveau élevé d’harmonisation en ce qui concerne les secteurs et les catégories d’entités relevant de son 
+champ d’application.
+
+Si  certains secteurs de l’économie,  tels que  les  secteurs  de l’énergie  et des  transports, sont  déjà réglementés  par des 
+actes juridiques  sectoriels  de l’Union, ces actes juridiques contiennent  des  dispositions  qui  portent  uniquement  sur 
+certains aspects  de la  résilience  des  entités  actives  dans  ces secteurs. Afin  de traiter de manière  globale la  résilience 
+des  entités  qui  sont  critiques  pour  le  bon  fonctionnement  du  marché  intérieur,  la  présente  directive  crée  un  cadre 
+général  applicable  à  la  résilience  des  entités  critiques  en  ce  qui  concerne  tous  les  risques,  qu’ils  soient  naturels  ou 
+d’origine humaine, accidentels ou intentionnels.
+
+Les interdépendances croissantes entre les infrastructures et les secteurs sont le résultat d’un réseau de fourniture de 
+services de plus en plus transfrontière et interdépendant, qui utilise des infrastructures clés dans toute l’Union dans 
+les  secteurs  de  l’énergie,  des  transports,  des  banques,  de  l’eau  potable,  des  eaux  usées,  de  la  production,  de  la 
+transformation  et  de  la  distribution  de  denrées  alimentaires,  de  la  santé, de  l’espace,  des  infrastructures  du  marché 
+financier et des infrastructures numériques, et de certains aspects du secteur de l’administration publique. Le secteur 
+spatial relève du champ d’application de la présente directive pour ce qui est de la fourniture de certains services qui 
+dépendent d’infrastructures terrestres détenues, gérées et exploitées par des États membres ou par des parties privées; 
+par  conséquent,  les  infrastructures  détenues,  gérées  ou  exploitées  par  ou  au  nom  de  l’Union  dans  le  cadre  de  son 
+programme spatial ne relèvent pas du champ d’application de la présente directive.
+
+En  ce  qui  concerne  le  secteur  de  l’énergie,  et  plus  particulièrement  les  procédés  de  production  et  de  transport  de 
+l’électricité  (en  ce  qui  concerne  la  fourniture  d’électricité),  il  est  entendu  que,  lorsque  cela  est  jugé  approprié,  la 
+production d’électricité peut englober les éléments des centrales nucléaires servant au transport de l’électricité, tout 
+en  excluant  les  éléments  strictement  nucléaires,  qui  relèvent  du  droit  de  l’Union,  y  compris  les  actes  juridiques 
+pertinents de l’Union concernant l’énergie nucléaire, et des traités. Le processus de recensement des entités critiques 
+dans le secteur alimentaire devrait refléter de manière adéquate la nature du marché intérieur  dans ce secteur et les 
+règles  étendues  de  l’Union  relatives  aux  principes  généraux  et  aux  prescriptions  générales  de  la  législation 
+alimentaire et à ceux en matière de sécurité des denrées alimentaires. Par conséquent, afin de garantir une approche 
+proportionnée et de tenir dûment compte du rôle et de l’importance de ces entités au niveau national, il convient de 
+ne recenser parmi les entreprises du secteur alimentaire que les entités critiques, qu’elles soient à but lucratif ou non 
+et qu’elles soient publiques ou privées, qui se consacrent exclusivement à la logistique, à la distribution en gros, ainsi 
+qu’à la production et à la transformation industrielles à grande échelle et détenant une part de marché importante, 
+comme  observé  au  niveau  national.  Ces  interdépendances  signifient  que  toute  perturbation  de  services  essentiels, 
+même  initialement  limitée  à  une  entité  ou  un  secteur,  peut  produire  des  effets  en  cascade  plus  larges,  entraînant 
+éventuellement  une  incidence  négative  à  long  terme  et  de  grande  ampleur  sur  la  fourniture  de  services  dans 
+l’ensemble  du  marché  intérieur.  Les  crises  majeures,  telles  que  la  pandémie  de  COVID-19,  ont  mis  en  évidence  la 
+vulnérabilité de nos sociétés de plus  en plus interdépendantes face  à des  risques à  faible  probabilité  de survenance, 
+mais à fort impact.
+
+L  333/166 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+27.12.2022  
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+Les entités participant à la fourniture de services essentiels sont de plus en plus soumises à des exigences divergentes 
+imposées par le droit national. Le fait que certains États membres imposent des exigences de sécurité moins strictes à 
+ces entités non seulement entraîne des niveaux de résilience différents  mais risque également d’avoir  une incidence 
+négative  sur  le  maintien  de  fonctions  sociétales  ou  d’activités  économiques  vitales  dans  l’ensemble  de  l’Union,  et 
+entrave  le  bon  fonctionnement  du  marché  intérieur.  Les  investisseurs  et  les  entreprises  peuvent  se  fier  et  faire 
+confiance  aux  entités  critiques  qui  sont  résilientes,  et  la  fiabilité  et  la  confiance  constituent  la  clé  de  voûte  d’un 
+marché  intérieur  performant.  Des  types  d’entités  similaires  sont  considérés  comme  critiques  dans  certains  États 
+membres mais pas dans d’autres, et ceux qui sont recensés comme critiques sont soumis à des exigences différentes 
+selon  les  États  membres.  Il  en  résulte  une  charge  administrative  supplémentaire  et  inutile  pour  les  entreprises 
+exerçant des activités transfrontières, notamment pour les entreprises actives dans des États membres imposant des 
+exigences plus strictes. Un cadre de l’Union aurait donc également pour effet de créer des conditions équitables pour 
+les entités critiques dans toute l’Union.
+
+Il est nécessaire d’établir des règles minimales harmonisées afin de garantir la fourniture de services essentiels dans le 
+marché intérieur, de renforcer la résilience des entités critiques et d’améliorer la coopération transfrontière entre les 
+autorités compétentes. Il  importe que  ces  règles  soient à  l’épreuve  du  temps en  ce  qui  concerne  leur  conception et 
+leur mise en œuvre, tout en offrant la souplesse nécessaire. Il est également crucial d’améliorer la capacité des entités 
+critiques à fournir des services essentiels face à un ensemble diversifié de risques.
+
+Afin  d’atteindre  un  niveau  élevé  de  résilience,  les  États  membres  devraient  recenser  les  entités  critiques  qui  seront 
+soumises  à  des  exigences  et  à  une  supervision  spécifiques,  et  qui  bénéficieront  d’un  soutien  et  de  conseils 
+particuliers face à tous les risques pertinents.
+
+Compte tenu de l’importance de la cybersécurité pour la résilience des entités critiques et dans un souci d’uniformité, 
+il  convient  de  veiller  à  une  approche  cohérente,  chaque  fois  que  cela  est  possible,  entre  la  présente  directive  et  la 
+directive  (UE) 2022/2555 du Parlement européen et du Conseil (5).  Compte tenu  de la fréquence  plus élevée et  des 
+caractéristiques  particulières  des  risques  en  matière  de  cybersécurité,  la  directive  (UE)  2022/2555  impose  des 
+exigences  complètes  à  un  grand  nombre  d’entités  afin  de  garantir  leur  cybersécurité.  Étant  donné  que  la 
+cybersécurité  est  suffisamment  traitée  dans  la  directive  (UE)2022/2555,  les  questions  qu’elle  couvre  devraient  être 
+exclues  du  champ  d’application  de  ladite  directive,  sans  préjudice  du  régime  particulier  applicable  aux  entités  du 
+secteur des infrastructures numériques.
+
+Lorsque  des  dispositions  d’actes  juridiques  sectoriels  de  l’Union  exigent  des  entités  critiques  qu’elles  prennent  des 
+mesures pour  renforcer leur  résilience et lorsque ces exigences sont reconnues par les États membres comme étant 
+au  moins  équivalentes  aux  obligations  correspondantes  prévues  par  la  présente  directive,  les  dispositions 
+pertinentes  de  la  présente  directive  ne  devraient  pas  s’appliquer,  de  manière  à  éviter  tout  double  emploi  et  une 
+charge inutile.  Dans  un  tel cas,  les  dispositions  pertinentes  de  ces  actes  juridiques  de  l’Union  devraient  s’appliquer. 
+Lorsque  les  dispositions  pertinentes  de  la  présente  directive  ne  s’appliquent  pas,  les  dispositions  relatives  à  la 
+supervision et à l’exécution des règles prévues par la présente directive ne devraient pas non plus s’appliquer.
+
+La  présente  directive  n’affecte  pas  la  compétence  des  États  membres  et  de  leurs  autorités  pour  ce  qui  est  de 
+l’autonomie administrative  ou  la  responsabilité qui  leur  incombe  en  matière  de sauvegarde de la  sécurité nationale 
+et de la défense ou  leur  pouvoir  de garantir d’autres  fonctions essentielles  de l’État, notamment  celles qui ont pour 
+objet  d’assurer  la  sécurité  publique,  l’intégrité  territoriale  et  le  maintien  de  l’ordre  public.  L’exclusion  des  entités  de 
+l’administration publique du champ d’application de la présente directive devrait s’appliquer aux entités qui exercent 
+leurs activités principalement dans les domaines de la sécurité nationale, de la sécurité publique, de la défense ou de 
+l’application  de  la  loi,  y  compris  la  détection  des  infractions  pénales  ainsi  que  les  enquêtes  et  les  poursuites  en  la 
+matière.  Toutefois,  les  entités  de  l’administration  publique  dont  les  activités  ne  sont  que  marginalement  liées  à  ces 
+domaines  devraient  relever  du  champ  d’application  de  la  présente  directive.  Aux  fins  de  la  présente  directive,  les 
+entités  disposant  de  compétences  réglementaires  ne  sont  pas  considérées  comme  exerçant  des  activités  dans  le 
+domaine de l’application de la loi et elles ne sont, par conséquent, pas exclues du champ d’application de la présente 
+directive  pour  ce  motif.  Les  entités  de  l’administration  publique  qui  sont  établies  conjointement  avec  un pays  tiers 
+conformément  à  un  accord  international  sont exclues du  champ d’application  de  la  présente  directive.  La  présente 
+directive ne s’applique pas aux missions diplomatiques et consulaires des États membres dans les pays tiers.
+
+(5) Directive (UE) 2022/2555 du Parlement européen et du Conseil du 14 décembre 2022 concernant des mesures destinées à assurer un 
+niveau  élevé  commun  de  cybersécurité  dans  l’ensemble  de  l’Union,  modifiant  le  règlement  (UE)  no  910/2014  et  la  directive  (UE) 
+2018/1972, et abrogeant la directive (UE) 2016/1148 (directive SRI 2) (voir page 80 du présent Journal officiel).
+
+27.12.2022 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+L  333/167  
+
+Certaines entités critiques exercent des activités dans les domaines de la sécurité nationale, de la sécurité publique, de 
+la  défense  ou  de  l’application  de  la  loi,  y  compris  la  détection  des  infractions  pénales  ainsi  que  les  enquêtes  et  les 
+poursuites  en  la  matière,  ou  fournissent  des  services  exclusivement  à  des  entités  de  l’administration  publique  qui 
+exercent  des  activités  principalement  dans  ces  domaines.  Compte  tenu  de  la  responsabilité  qui  incombe  aux  États 
+membres  en  matière  de  sauvegarde  de  la  sécurité  nationale  et  de  la  défense,  les  États  membres  devraient  pouvoir 
+décider que les obligations incombant aux entités critiques prévues dans la présente directive ne s’appliquent pas, en 
+tout ou  en  partie,  auxdites  entités  critiques  si  les  services  qu’elles  fournissent  ou  les  activités  qu’elles  exercent  sont 
+principalement  liés aux  domaines de la sécurité nationale, de la sécurité  publique, de la  défense  ou de l’application 
+de  la  loi,  y  compris  la  détection  des  infractions  pénales  ainsi  que  les  enquêtes  et  les  poursuites  en  la  matière.  Les 
+entités critiques dont les services ou les activités ne sont que marginalement liés à ces domaines devraient relever du 
+champ  d’application  de  la  présente  directive.  Aucun  État  membre  ne  devrait  être  tenu  de  fournir  des  informations 
+dont la divulgation serait contraire aux intérêts essentiels de sa sécurité nationale. Les règles de l’Union ou les règles 
+nationales visant à protéger les informations classifiées et les accords de non-divulgation sont pertinents à cet égard.
+
+(12) Afin de ne pas compromettre la sécurité nationale ou la sécurité et les intérêts commerciaux des entités critiques, les 
+informations  sensibles  devraient  être  consultées,  échangées et  traitées avec  prudence  et en  accordant  une  attention 
+particulière aux canaux de transmission et aux capacités de stockage utilisés.
+
+(13) Afin  de  garantir  une  approche  globale  de  la  résilience  des  entités  critiques,  chaque  État  membre  devrait  disposer 
+d’une  stratégie pour  renforcer  la  résilience  des  entités critiques  (ci-après  dénommée  «stratégie»).  La stratégie devrait 
+définir  les  objectifs  stratégiques  et  les  mesures  politiques  à  mettre  en  œuvre.  Dans  un  souci  de  cohérence  et 
+d’efficacité,  la  stratégie  devrait  être  conçue  de  manière  à  intégrer  harmonieusement  les  politiques  existantes,  en 
+s’appuyant, chaque fois que cela est possible, sur des stratégies nationales et sectorielles, des plans ou des documents 
+similaires existants pertinents. Afin de mettre en place une approche globale, les États membres devraient veiller à ce 
+que leur stratégie prévoie un cadre d’action pour une coordination renforcée entre les autorités compétentes en vertu 
+de  la  présente  directive  et  les  autorités  compétentes  en  vertu  de  la  directive  (UE)  2022/2555  dans  le  contexte  du 
+partage  d’informations  sur  les  risques,  menaces  et  incidents  en  matière  de  cybersécurité  et  les  risques,  menaces  et 
+incidents non liés à la cybersécurité, et dans le contexte de l’exercice des tâches de supervision. Lorsqu’ils mettent en 
+place leur stratégie, les États membres devraient tenir dûment compte de la nature hybride des menaces pesant sur les 
+entités critiques.
+
+(14)
+
+(15)
+
+Les  États  membres  devraient  communiquer  leur  stratégie  et  les  mises  à  jour  substantielles  de  celle-ci  à  la 
+Commission, notamment pour  permettre à cette dernière d’évaluer la bonne application de la présente directive en 
+ce  qui  concerne  les  approches  stratégiques  à  l’égard  de  la  résilience  des  entités  critiques  à  l’échelon  national.  Les 
+stratégies  pourraient  être  communiquées  en  tant  qu’informations  classifiées.  La  Commission  devrait  établir  un 
+rapport  de  synthèse  sur  les  stratégies  communiquées  par  les  États  membres,  qui  servirait  de  base  aux  échanges 
+visant à recenser les bonnes pratiques et les questions d’intérêt commun dans le cadre d’un groupe sur la résilience 
+des  entités  critiques.  Les  informations  agrégées  figurant  dans  le  rapport  de  synthèse,  qu’elles  soient  classifiées  ou 
+non, étant par nature sensibles, la Commission devrait gérer le rapport de synthèse en étant dûment consciente de la 
+question de la sécurité des entités critiques, des États membres et de l’Union. Le rapport de synthèse et les stratégies 
+devraient  être  protégés  contre  les  actes  illicites  ou  malveillants  et  ne  devraient  être  accessibles  qu’aux  personnes 
+autorisées afin  d’atteindre les objectifs de la présente directive. La communication des stratégies et de leurs  mises à 
+jour  substantielles  devrait  également  aider  la  Commission  à  comprendre  l’évolution  des  approches  à  l’égard  de  la 
+résilience des entités critiques et à alimenter le suivi de l’impact et de la valeur ajoutée de la présente directive, que la 
+Commission doit réexaminer périodiquement.
+
+Les  mesures  prises  par  les  États  membres  pour  recenser  les  entités  critiques  et  contribuer  à  garantir  leur  résilience 
+devraient  suivre  une  approche  fondée  sur  les  risques  qui  se  concentre  sur  les  entités  les  plus  importantes  pour 
+l’exercice  de  fonctions  sociétales  ou  d’activités  économiques  vitales.  Afin  de  garantir  une  telle  approche  ciblée, 
+chaque  État  membre  devrait  procéder,  dans  un  cadre  harmonisé,  à  une  évaluation  des  risques  naturels  et  d’origine 
+humaine pertinents, y compris les risques de nature transsectorielle ou transfrontière, pouvant affecter la fourniture 
+de  services  essentiels,  y compris  les  accidents,  les  catastrophes  naturelles,  les  urgences  de  santé  publique  telles que 
+les  pandémies  et  les  menaces  hybrides  ou  autres  menaces  antagonistes,  lesquelles  comprennent  les  infractions 
+terroristes,  l’infiltration  par  les  réseaux  criminels  et  le  sabotage  (ci-après  dénommée  «évaluation  des  risques  d’État 
+membre»). Lorsqu’ils procèdent à une telle évaluation, les États membres devraient tenir compte d’autres évaluations 
+des  risques  générales  ou  sectorielles  effectuées  en  vertu  d’autres  actes  juridiques  de  l’Union  et  examiner  la  mesure 
+dans laquelle les secteurs dépendent les uns des autres, y compris de secteurs d’autres États membres et de pays tiers. 
+Les résultats de l’évaluation des risques d’État membre devraient être utilisés aux fins de recenser les entités critiques 
+
+L  333/168 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+27.12.2022  
+
+et  d’aider  ces  entités  à  satisfaire  aux  exigences  auxquelles  elles  sont  soumises  en  matière  de  résilience.  La  présente 
+directive  ne  s’applique  qu’aux  États  membres  et aux entités critiques  qui  exercent  leurs  activités au sein  de l’Union. 
+Néanmoins,  l’expertise  et  les  connaissances  générées  par  les  autorités  compétentes,  notamment  au  moyen 
+d’évaluations  des  risques,  et  par  la  Commission,  notamment  au  moyen  de  diverses  formes  de  soutien  et  de 
+coopération, pourraient être utilisées, le cas échéant et conformément aux instruments juridiques applicables, dans 
+l’intérêt  des  pays  tiers,  notamment  ceux  qui  se  trouvent  dans  le  voisinage  direct  de  l’Union,  en  alimentant  la 
+coopération existante en matière de résilience.
+
+(16) Afin de garantir que toutes les entités concernées sont soumises aux exigences en matière de résilience de la présente 
+directive  et  de  réduire  les  divergences  à  cet  égard,  il  importe  d’établir  des  règles  harmonisées  permettant  un 
+recensement  cohérent  des  entités  critiques  dans  l’ensemble  de  l’Union,  tout  en  permettant  aux  États  membres  de 
+tenir  suffisamment  compte  du  rôle  et  de  l’importance  de  ces  entités  à  l’échelon  national.  Lorsqu’il  applique  les 
+critères  établis  dans  la  présente  directive,  chaque  État  membre  devrait  recenser  les  entités  qui  fournissent  un  ou 
+plusieurs services essentiels et qui exploitent et possèdent des infrastructures critiques situées sur son territoire. Une 
+entité devrait être considérée comme exerçant des activités sur le territoire de l’État membre dans lequel elle exerce 
+les activités nécessaires pour le ou les services essentiels en question et dans lequel se trouve l’infrastructure critique 
+de cette entité,  qui est utilisée  pour  fournir  ce ou  ces services. Lorsqu’aucune  entité ne  remplit ces  critères  dans un 
+État  membre,  cet  État  membre  ne  devrait  pas  être  tenu  de  recenser  des  entités  critiques  dans  le  secteur  ou  sous- 
+secteur  correspondant.  Dans  un  souci  d’efficacité,  d’efficience,  de  cohérence  et  de  sécurité  juridique,  il  convient 
+d’établir des règles appropriées en ce qui concerne la notification des entités qui ont été recensées en tant qu’entités 
+critiques.
+
+(17)
+
+Les États membres devraient communiquer à la Commission, selon des modalités qui répondent aux objectifs de la 
+présente directive, une liste des services essentiels, le nombre d’entités critiques recensées pour chacun des secteurs 
+et  sous-secteurs  figurant  en  annexe  et  pour  le  ou  les  services  essentiels  fournis  par  chaque  entité  et,  s’ils  sont 
+appliqués, les seuils. Il devrait être possible de présenter les seuils tels quels ou sous une forme agrégée, c’est-à-dire 
+que  les  informations  peuvent  prendre  la  forme  de  moyennes  par  zone  géographique,  par  année,  par  secteur,  par 
+sous-secteur, ou par tout autre critère, et peuvent comporter des données sur la portée des indicateurs fournis.
+
+(18) Des  critères  devraient  être  fixés  afin  de  déterminer  l’importance  de  l’effet  perturbateur  causé  par  un  incident.  Ces 
+critères devraient se fonder sur les critères énoncés dans la directive (UE) 2016/1148 du Parlement européen et du 
+Conseil (6) afin  de  tirer  parti  des  efforts  déployés  par  les  États  membres  pour  recenser  les  opérateurs  de  services 
+essentiels tels qu’ils sont définis dans ladite directive et de l’expérience acquise à cet égard. Des crises majeures, telles 
+que  la  pandémie  de  COVID-19,  ont  mis  en  lumière  l’importance  de  garantir  la  sécurité  de  la  chaîne 
+d’approvisionnement et ont  montré  comment  sa  perturbation peut  avoir  des  incidences  économiques  et  sociétales 
+négatives dans un grand nombre de secteurs et au-delà des  frontières. Par conséquent,  les États membres  devraient 
+également  tenir  compte  des  effets  sur  la  chaîne  d’approvisionnement,  dans  la  mesure  du  possible,  lorsqu’ils 
+déterminent la mesure dans laquelle d’autres secteurs et sous-secteurs dépendent du service essentiel fourni par une 
+entité critique.
+
+(19) Conformément  au  droit  de  l’Union  et  au  droit  national  applicables,  y  compris  le  règlement  (UE)  2019/452  du 
+Parlement européen et du Conseil (7), qui établit un cadre pour le filtrage des investissements directs étrangers dans 
+l’Union,  il  convient  de  reconnaître  la  menace  potentielle  que  représente  la  participation  étrangère  dans  des 
+infrastructures critiques au sein de l’Union, parce que les services, l’économie, la liberté de circulation et la sécurité 
+des citoyens de l’Union dépendent du bon fonctionnement des infrastructures critiques.
+
+(20)
+
+La  directive  (UE)  2022/2555  impose  aux  entités  appartenant  au  secteur  des  infrastructures  numériques  qui 
+pourraient  être  recensées  en  tant  qu’entités  critiques  en  vertu  de  la  présente  directive  de  prendre  des  mesures 
+techniques, opérationnelles et organisationnelles appropriées et proportionnées pour gérer les risques qui menacent 
+la  sécurité  des  réseaux  et  des  systèmes  d’information  et  de  signaler  les  cybermenaces  et  les  incidents  importants. 
+Étant  donné  que  les  menaces  pesant  sur  la  sécurité  des  réseaux  et  des  systèmes  d’information  peuvent  avoir  des 
+origines  différentes,  la  directive  (UE)  2022/2555  applique  une  approche  tous  risques  qui  inclut  la  résilience  des 
+réseaux et des systèmes d’information ainsi que des composants et environnements physiques de ces systèmes.
+
+(6) Directive (UE) 2016/1148 du Parlement européen et du Conseil du 6 juillet 2016 concernant des mesures destinées à assurer un niveau 
+
+élevé commun de sécurité des réseaux et des systèmes d’information dans l’Union (JO L 194 du 19.7.2016, p. 1).
+
+(7) Règlement  (UE)  2019/452  du  Parlement  européen  et  du  Conseil  du  19  mars  2019  établissant  un  cadre  pour  le  filtrage  des 
+
+investissements directs étrangers dans l’Union (JO L 79 I du 21.3.2019, p. 1).
+
+27.12.2022 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+L  333/169  
+
+Les  exigences  établies  par  la  directive  (UE)  2022/2555  à  cet  égard  étant  au  moins  équivalentes  aux  obligations 
+correspondantes établies par la présente directive, les obligations établies à l’article 11 et aux chapitres III, IV et VI de 
+la présente directive ne devraient pas s’appliquer aux entités appartenant au secteur des infrastructures numériques 
+de  manière  à  éviter  tout  double  emploi  et  des  charges  administratives  inutiles.  Toutefois,  compte  tenu  de 
+l’importance des services fournis par les entités appartenant au secteur des infrastructures numériques à des entités 
+critiques appartenant à tous les autres secteurs, les États membres devraient recenser, sur la base des critères et selon 
+la procédure prévus dans la présente directive, les entités appartenant au secteur des infrastructures numériques en 
+tant qu’entités critiques. Par conséquent, les stratégies, les évaluations des risques d’États membres et les mesures de 
+soutien  énoncées  au  chapitre  II  de  la  présente  directive  devraient  s’appliquer.  Les  États  membres  devraient  pouvoir 
+adopter  ou  maintenir  des  dispositions  de  droit national  afin  d’atteindre un  niveau  de  résilience  plus  élevé  pour  ces 
+entités critiques, à condition que ces dispositions soient compatibles avec le droit de l’Union applicable.
+
+(21)
+
+Le droit de l’Union relatif aux services financiers impose aux entités financières des exigences étendues visant à ce que 
+tous  les  risques  auxquels  elles  sont  confrontées  soient  gérés,  y  compris  les  risques  opérationnels,  et  à  garantir  la 
+continuité  des  activités.  Ce  droit  comprend  les  règlements  (UE)  no  648/2012 (8),  (UE)  no  575/2013 (9) et  (UE) 
+no  600/2014 (10) du  Parlement  européen  et  du  Conseil  et  les  directive  2013/36/UE (11) et  2014/65/UE (12) du 
+Parlement européen et du Conseil. Ce cadre juridique est complété par le règlement (UE) 2022/2554 du Parlement 
+européen  et  du  Conseil (13),  qui  fixe  des  exigences  applicables  aux  entités  financières  en  matière  de  gestion  des 
+risques liés aux technologies de l’information et de la communication (TIC), y compris en matière de protection des 
+infrastructures  physiques  des  TIC.  Étant  donné  que  la  résilience  de  ces  entités  est  dès  lors  entièrement  couverte, 
+l’article 11 et les chapitres III, IV et VI de la présente directive ne devraient pas s’appliquer à ces entités, afin d’éviter 
+des doubles emplois et des charges administratives inutiles.
+
+Toutefois, compte tenu de l’importance des services fournis par les entités du secteur financier à des entités critiques 
+appartenant  à  tous  les  autres  secteurs,  les  États  membres  devraient  recenser,  sur  la  base  des  critères  et  selon  la 
+procédure  prévus  dans  la  présente  directive,  les  entités  du  secteur  financier  en  tant  qu’entités  critiques.  Par 
+conséquent,  les  stratégies,  les  évaluations  des  risques  d’États  membres  et  les  mesures  de  soutien  énoncées  au 
+chapitre II de la présente directive devraient s’appliquer. Les États membres devraient pouvoir adopter ou maintenir 
+des  dispositions  de  droit  national  afin  d’atteindre  un  niveau  de  résilience  plus  élevé  pour  ces  entités  critiques,  à 
+condition que ces dispositions soient compatibles avec le droit de l’Union applicable.
+
+(22)
+
+Les États membres devraient désigner ou mettre en place des autorités chargées de surveiller l’application des règles 
+de la présente directive et, si nécessaire, de les faire respecter, et veiller à ce que ces autorités disposent des pouvoirs 
+et  des  ressources  adéquats.  Compte  tenu  des  différences  entre  les  structures  de  gouvernance  nationales,  afin  de 
+préserver les dispositifs sectoriels existants ou les organismes de surveillance et de réglementation de l’Union, et afin 
+d’éviter  les  doubles  emplois,  les  États  membres  devraient  pouvoir  désigner  ou  mettre  en  place  plus  d’une  autorité 
+compétente. Lorsque les États membres désignent ou mettent en place plusieurs autorités compétentes, ils devraient 
+définir  clairement  les  tâches  respectives  des  autorités  concernées  et  veiller  à  ce  qu’elles  coopèrent  de  manière 
+harmonieuse  et  efficace.  Toutes  les  autorités  compétentes  devraient  également  coopérer  plus  généralement  avec 
+d’autres autorités concernées, tant au niveau de l’Union qu’au niveau national.
+
+(8) Règlement  (UE)  no  648/2012  du  Parlement  européen  et  du  Conseil  du  4  juillet  2012  sur  les  produits  dérivés  de  gré  à  gré,  les 
+
+contreparties centrales et les référentiels centraux (JO L 201 du 27.7.2012, p. 1).
+
+(9) Règlement (UE) no  575/2013 du Parlement européen et du Conseil du 26 juin 2013 concernant les exigences prudentielles applicables 
+
+aux établissements de crédit et modifiant le règlement (UE) no  648/2012 (JO L 176 du 27.6.2013, p. 1).
+
+(10) Règlement (UE) no  600/2014 du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d’instruments financiers 
+
+et modifiant le règlement (UE) no  648/2012 (JO L 173 du 12.6.2014, p. 84).
+
+(11) Directive 2013/36/UE du Parlement européen et du Conseil du 26 juin 2013 concernant l’accès à l’activité des établissements de crédit 
+et  la  surveillance  prudentielle  des  établissements  de  crédit  et  des  entreprises  d’investissement,  modifiant  la  directive  2002/87/CE  et 
+abrogeant les directives 2006/48/CE et 2006/49/CE (JO L 176 du 27.6.2013, p. 338).
+
+(12) Directive  2014/65/UE  du  Parlement  européen  et  du  Conseil  du  15  mai  2014  concernant  les  marchés  d’instruments  financiers  et 
+
+modifiant la directive 2002/92/CE et la directive 2011/61/UE (JO L 173 du 12.6.2014, p. 349).
+
+(13) Règlement (UE) 2022/2554 du Parlement européen et du Conseil du 14 décembre 2022 sur la résilience opérationnelle numérique du 
+secteur  financier  et  modifiant  les  règlements  (CE)  no  1060/2009,  (UE)  no  648/2012,  (UE)  no  600/2014,  (UE)  no  909/2014  et  (UE) 
+2016/1011 (voir page 1 du présent Journal officiel).
+
+L  333/170 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+27.12.2022  
+
+(23) Afin de faciliter la coopération et la communication transfrontières et de permettre la mise en œuvre effective de la 
+présente directive,  et sans  préjudice des exigences posées  par des actes juridiques sectoriels  de l’Union, chaque État 
+membre  devrait  désigner  un  point  de  contact  unique  chargé  de  coordonner  les  questions  liées  à  la  résilience  des 
+entités  critiques  et  à  la  coopération  transfrontière  au  niveau  de  l’Union  (ci-après  dénommé  «point  de  contact 
+unique»),  s’il  y  a  lieu  au  sein  d’une  autorité  compétente.  Il  convient  que  chaque  point  de  contact  unique  assure  la 
+coordination de la communication et la liaison, s’il y a lieu, avec les autorités compétentes de son État membre, avec 
+les points de contact uniques des autres États membres et avec le groupe sur la résilience des entités critiques.
+
+(24)
+
+(25)
+
+Les autorités compétentes en vertu de la présente directive et les autorités compétentes en vertu de la directive (UE) 
+2022/2555  devraient  coopérer  et  échanger  des  informations  sur  les  risques,  menaces  et  incidents  en  matière  de 
+cybersécurité ainsi que sur les risques, menaces et incidents non liés à la cybersécurité affectant les entités critiques, 
+et  sur  les  mesures  pertinentes  prises  par  les  autorités  compétentes  en  vertu  de  la  présente  directive  et  les  autorités 
+compétentes  en  vertu  de  la  directive  (UE)  2022/2555  Il  importe  que  les  États  membres  veillent  à  ce  que  les 
+exigences  prévues  par  la  présente  directive  et  la  directive  (UE)  2022/2555  soient  mises  en  œuvre  de  manière 
+complémentaire et à ce que les entités critiques ne soient pas soumises à une charge administrative supérieure à ce 
+qui est nécessaire pour atteindre les objectifs de la présente directive et de ladite directive.
+
+Les  États  membres  devraient  aider  les  entités  critiques,  y compris  celles  qui  sont  qualifiées  de  petites ou  moyennes 
+entreprises, à renforcer leur résilience, dans le respect des obligations qui incombent aux États membres en vertu de 
+la présente directive, sans préjudice de la propre responsabilité juridique qui incombe aux entités critiques de garantir 
+le  respect  de  ces  obligations  et,  ce  faisant,  éviter  d’imposer  une  charge  administrative  excessive.  En  particulier,  les 
+États  membres  pourraient  élaborer  des  documents  d’orientation  et  des  méthodologies,  apporter  leur  soutien  à 
+l’organisation  d’exercices  visant  à  tester  la  résilience  des  entités  critiques  et  dispenser  des  formations  et  fournir  des 
+conseils au personnel des entités critiques. Lorsque cela est nécessaire et justifié par des objectifs d’intérêt public, les 
+États  membres  pourraient  fournir  des  ressources  financières  et  devraient  faciliter 
+le  partage  volontaire 
+d’informations et l’échange de bonne pratiques entre les entités critiques, sans préjudice de l’application des règles de 
+concurrence prévues par le traité sur le fonctionnement de l’Union européenne.
+
+(26)
+
+En  vue  de  renforcer  la  résilience  des  entités  critiques  recensées  par  les  États  membres  et  afin  de  réduire  la  charge 
+administrative  qui  pèse  sur  ces  entités  critiques,  les  autorités  compétentes  devraient  se  consulter,  chaque  fois  que 
+cela est approprié, aux fins d’assurer l’application cohérente de la présente directive. Ces consultations devraient être 
+engagées à  la  demande de toute autorité compétente concernée, et viser  à assurer  une  approche convergente en  ce 
+qui concerne les entités critiques interconnectées qui utilisent des infrastructures critiques physiquement connectées 
+entre deux ou plusieurs États membres, qui appartiennent aux mêmes groupes ou structures d’entreprise, ou qui ont 
+été recensées dans un État membre et qui fournissent des services essentiels à ou dans d’autres États membres.
+
+(27)
+
+Lorsque des dispositions du droit de l’Union ou du droit national exigent que les entités critiques évaluent les risques 
+pertinents aux fins de la présente directive et qu’elles prennent des mesures pour garantir leur propre résilience, ces 
+exigences  devraient  être  suffisamment  prises  en  considération  aux  fins  de  surveiller  le  respect  de  la  présente 
+directive par les entités critiques.
+
+(28)
+
+Les  entités  critiques  devraient  avoir  une  connaissance  approfondie  des  risques  pertinents  auxquels  elles  sont 
+exposées et être tenues de les analyser. À cette fin, elles devraient procéder à des évaluations des risques chaque fois 
+que cela s’avère nécessaire compte tenu de leurs circonstances particulières et de l’évolution de ces risques et, en tout 
+cas,  tous  les  quatre  ans,  afin  d’évaluer  tous  les  risques  pertinents  qui  pourraient  perturber  la  fourniture  de  leurs 
+services  essentiels  (ci-après  dénommée  «évaluation  des  risques  d’entité  critique»).  Lorsque  les  entités  critiques  ont 
+procédé à d’autres évaluations des risques ou établi des documents en vertu d’obligations prévues par d’autres actes 
+juridiques  qui  sont  pertinents  pour  leur  évaluation  des  risques  d’entité  critique,  elles  devraient  pouvoir  utiliser  ces 
+évaluations  et  documents  pour  satisfaire  aux  exigences  énoncées  dans  la  présente  directive  en  ce  qui  concerne  les 
+évaluations  des  risques  d’entités  critiques.  Une  autorité  compétente  devrait  pouvoir  déclarer  qu’une  évaluation  des 
+risques  existante  réalisée  par  une  entité  critique  qui  porte  sur  les  risques  pertinents  et  le  degré  pertinent  de 
+dépendance respecte, en tout ou en partie, les obligations prévues par la présente directive.
+
+27.12.2022 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+L  333/171  
+
+(29)
+
+Les  entités  critiques  devraient  adopter  des  mesures  techniques,  des  mesures  de  sécurité  et  des  mesures 
+organisationnelles appropriées et proportionnées aux risques auxquels elles sont confrontées, de manière à prévenir 
+tout incident, à s’en protéger, à y réagir, à y résister, à l’atténuer, à l’absorber, à s’y adapter et à s’en remettre. Bien que 
+les entités critiques soient tenues de prendre ces mesures conformément à la présente directive, les détails et la portée 
+de  ces  mesures  devraient  refléter  de  manière  appropriée  et  proportionnée  les  différents  risques  que  chaque  entité 
+critique a recensés dans le cadre de son évaluation des risques d’entité critique et les spécificités de cette entité. Pour 
+favoriser  une approche cohérente de l’Union, la Commission devrait, après consultation du groupe sur la résilience 
+des  entités  critiques,  adopter  des  lignes  directrices  non  contraignantes  afin  de  préciser  davantage  ces  mesures 
+techniques,  ces  mesures  de  sécurité  et  ces  mesures  organisationnelles.  Les  États  membres  devraient  veiller  à  ce  que 
+chaque entité critique désigne un agent de liaison ou une personne ayant une fonction équivalente en tant que point 
+de contact avec les autorités compétentes.
+
+(30) Dans  un  souci  d’efficacité  et  de  responsabilité,  les  entités  critiques  devraient  décrire  les  mesures  qu’elles  prennent 
+avec  un  niveau  de  détail  suffisant  pour  atteindre  les  objectifs  d’efficacité  et  de  responsabilité,  eu  égard  aux  risques 
+identifiés,  dans  un  plan  de  résilience  ou  dans  un  ou  plusieurs  documents  équivalents,  et  appliquer  ce  plan  dans  la 
+pratique.  Lorsqu’une  entité  critique  a  déjà  pris  des  mesures  techniques,  des  mesures  de  sécurité  et  des  mesures 
+organisationnelles et établi des documents en vertu d’autres actes juridiques qui sont pertinents aux fins des mesures 
+de renforcement de la résilience au titre de la présente directive, elle devrait pouvoir, afin d’éviter les doubles emplois, 
+utiliser ces mesures et documents pour satisfaire aux exigences en ce qui concerne les mesures de résilience au titre 
+de la présente directive. Afin d’éviter les doubles emplois, une autorité compétente devrait pouvoir déclarer comme 
+conformes, en tout ou en partie, aux exigences de la présente directive des mesures de résilience existantes prises par 
+une entité critique qui répondent à son obligation de prendre des mesures techniques, des mesures de sécurité et des 
+mesures organisationnelles.
+
+(31)
+
+(32)
+
+Les  règlements  (CE)  no  725/2004 (14) et  (CE)  no  300/2008 (15) du  Parlement  européen  et  du  Conseil  et  la  directive 
+2005/65/CE du Parlement européen et du Conseil (16) définissent  des exigences applicables aux entités des  secteurs 
+de l’aviation et du transport maritime  afin  de prévenir  les incidents causés par des actes illicites, d’y  résister et d’en 
+atténuer  les  conséquences.  Bien  que  les  mesures  requises  par  la  présente  directive  soient  plus  larges  en  ce  qui 
+concerne  les  risques  pris  en  compte  et  les  types  de  mesures  devant  être  prises,  les  entités  critiques  de  ces  secteurs 
+devraient  prendre  en  considération  dans  leur  plan  de  résilience  ou  dans  des  documents  équivalents  les  mesures 
+prises  en  application  de  ces  autres  actes  juridiques  de  l’Union.  Les  entités  critiques  doivent  également  prendre  en 
+considération  la  directive  2008/96/CE  du  Parlement  européen  et  du  Conseil (17),  qui  instaure  une  évaluation  de 
+l’ensemble du réseau routier  pour cartographier les risques d’accidents et une inspection de sécurité routière ciblée, 
+afin de déterminer les conditions dangereuses, les défauts et les problèmes qui augmentent le risque d’accidents et de 
+blessures, sur la base de visites sur place de routes existantes ou de tronçons de route existants. Veiller à la protection 
+et à la résilience des entités critiques est de la plus haute importance pour le secteur ferroviaire et, lorsqu’elles mettent 
+en œuvre des mesures de résilience au titre de la présente directive, les entités critiques sont encouragées à se référer 
+aux lignes directrices non contraignantes et aux documents de bonnes pratiques élaborés dans le cadre de groupes de 
+travail sectoriels, tels que la plateforme de l’Union européenne en matière de sûreté des voyageurs ferroviaires créée 
+par la décision 2018/C 232/03 de la Commission (18).
+
+Le risque que des membres du personnel des entités critiques ou de leurs contractants utilisent de manière abusive, 
+par exemple leurs droits d’accès au sein de l’organisation de l’entité critique pour nuire et causer un préjudice est de 
+plus  en  plus  préoccupant.  Les  États  membres  devraient  par  conséquent  préciser  les  conditions  dans  lesquelles  les 
+entités  critiques  sont  autorisées,  dans  des  cas  dûment  motivés  et  compte  tenu  des  évaluations  des  risques  d’États 
+membres,  à  présenter  des  demandes  de  vérification  des  antécédents  des  personnes  appartenant  à  des  catégories 
+spécifiques de leur personnel. Il convient de veiller à ce que les autorités concernées évaluent ces demandes dans un 
+délai raisonnable et les traitent conformément au droit national et aux procédures nationales, et au droit de l’Union 
+pertinent  et  applicable,  y  compris  en  matière  de  protection  des  données  à  caractère  personnel.  Afin  de  confirmer 
+l’identité d’une personne faisant l’objet d’une vérification des antécédents, il convient que les États membres exigent 
+une  preuve  de  son  identité,  comme  un  passeport,  une  carte  d’identité  nationale  ou  une  forme  d’identification 
+numérique, conformément au droit applicable.
+
+(14) Règlement (CE) no  725/2004 du Parlement européen et du Conseil du 31 mars 2004 relatif à l’amélioration de la sûreté des navires et 
+
+des installations portuaires (JO L 129 du 29.4.2004, p. 6).
+
+(15) Règlement (CE) no  300/2008 du Parlement européen et du Conseil du 11 mars 2008 relatif à l’instauration de règles communes dans 
+
+le domaine de la sûreté de l’aviation civile et abrogeant le règlement (CE) no  2320/2002 (JO L 97 du 9.4.2008, p. 72).
+
+(16) Directive  2005/65/CE  du  Parlement  européen  et  du  Conseil  du  26  octobre  2005  relative  à  l’amélioration  de  la  sûreté  des  ports 
+
+(JO L 310 du 25.11.2005, p. 28).
+
+(17) Directive  2008/96/CE  du  Parlement  européen  et  du  Conseil  du  19  novembre  2008  concernant  la  gestion  de  la  sécurité  des 
+
+infrastructures routières (JO L 319 du 29.11.2008, p. 59).
+
+(18) Décision  de  la  Commission  du  29  juin  2018  portant  création  de  la  plateforme  de  l’Union  européenne  en  matière  de  sûreté  des 
+
+voyageurs ferroviaires 2018/C 232/03 (JO C 232 du 3.7.2018, p. 10).
+
+L  333/172 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+27.12.2022  
+
+Les  vérifications  des  antécédents  devraient  également  comprendre  une  vérification  des  casiers  judiciaires  de  la 
+personne  concernée.  Les  États  membres  devraient  utiliser  le  système  européen  d’information  sur  les  casiers 
+judiciaires conformément aux procédures prévues dans la décision-cadre 2009/315/JAI du Conseil (19) et, si cela est 
+pertinent et applicable, dans le règlement (UE) 2019/816 du Parlement européen et du Conseil (20) aux fins d’obtenir 
+des informations provenant des casiers judiciaires détenus par d’autres États membres. Les États membres pourraient 
+aussi, et si cela est pertinent et applicable, s’appuyer sur le système d’information Schengen de deuxième génération 
+(SIS  II)  établi  par  le  règlement  (UE)  2018/1862  du  Parlement  européen  et  du  Conseil (21),  sur  des  éléments  de 
+renseignement  et  sur  toutes  autres  informations  objectives  disponibles  qui  pourraient  être  nécessaires  pour 
+déterminer si la personne concernée convient pour le poste pour lequel l’entité critique a demandé une vérification 
+des antécédents.
+
+(33)
+
+(34)
+
+(35)
+
+(36)
+
+Il  convient  de  mettre  en  place  un  mécanisme  de  notification  de  certains  incidents  afin  de  permettre  aux  autorités 
+compétentes  de  réagir  rapidement  et  de  manière  adéquate  aux  incidents  et  de  disposer  d’une  vue  d’ensemble 
+complète  de  l’impact,  de  la  nature,  de  la  cause  et  des  conséquences  éventuelles  d’incidents  auxquels  les  entités 
+critiques sont confrontées. Les entités critiques devraient notifier sans retard injustifié aux autorités compétentes les 
+incidents  qui  perturbent  ou  sont  susceptibles  de  perturber  de  manière  importante  la  fourniture  de  services 
+essentiels. À moins qu’elles n’en soient empêchées sur le plan opérationnel, les entités critiques devraient présenter 
+une notification initiale au plus tard vingt-quatre heures après avoir pris connaissance d’un incident. La notification 
+initiale  ne  devrait  inclure  que  les  informations  strictement  nécessaires  pour  porter  l’incident  à  la  connaissance  de 
+l’autorité compétente et permettre à l’entité critique de demander une assistance, si nécessaire. Une telle notification 
+devrait  indiquer, lorsque  cela  est possible,  la  cause  présumée  de l’incident.  Les  États  membres  devraient  veiller  à  ce 
+que l’obligation de présenter cette notification initiale ne détourne pas les ressources de l’entité critique des activités 
+liées  à  la  gestion  de  l’incident,  qui  devraient  être  prioritaires.  La  notification  initiale  devrait  être  suivie,  s’il  y  a  lieu, 
+d’un  rapport  détaillé  au  plus  tard  un  mois  après  l’incident.  Le  rapport  détaillé  devrait  compléter  la  notification 
+initiale et fournir une vue d’ensemble plus complète de l’incident.
+
+Il convient que la normalisation demeure un processus essentiellement conduit par le marché. Toutefois, il pourrait 
+être  approprié  dans  certaines  situations  d’exiger  le  respect  de  certaines  normes.  Les  États  membres  devraient, 
+lorsque  cela  est  utile,  promouvoir  l’utilisation  de  normes  européennes  et  internationales  et  de  spécifications 
+techniques pertinentes pour les mesures de sécurité et les mesures de résilience applicables aux entités critiques.
+
+Si  les  entités  critiques  exercent  généralement  leurs  activités  dans  le  cadre  d’un  réseau  de  fourniture  de  services  et 
+d’infrastructures  de  plus  en  plus  interconnecté  et  fournissent  souvent  des  services  essentiels  dans  plus  d’un  État 
+membre, certaines de ces entités critiques revêtent une importance particulière pour l’Union et son marché intérieur 
+car elles fournissent des services essentiels à ou dans six États membres ou plus, et pourraient donc bénéficier d’un 
+soutien  spécifique  au  niveau  de  l’Union.  Il  y  a  donc  lieu  d’établir  des  règles  relatives  aux  missions  de  conseil 
+destinées à ces entités critiques d’importance européenne particulière. Ces règles sont sans préjudice des dispositions 
+relatives à la supervision et à l’exécution des règles énoncées dans la présente directive.
+
+Sur demande motivée de la Commission ou d’un ou de plusieurs États membres auxquels ou dans lesquels le service 
+essentiel  est  fourni,  lorsque  des  informations  supplémentaires  sont  nécessaires  pour  pouvoir  conseiller  une  entité 
+critique  en  vue  du  respect  de  ses  obligations  au  titre  de  la  présente  directive  ou  pour  évaluer  le  respect  de  ces 
+obligations  par  une  entité  critique  d’importance  européenne  particulière,  l’État  membre  qui  a  désigné  une  entité 
+critique  d’importance  européenne  particulière  en  tant  qu’entité  critique  devrait  fournir  certaines  informations  à  la 
+Commission,  conformément  à  la  présente  directive.  En  accord  avec  l’État  membre  qui  a  désigné  l’entité  critique 
+d’importance  européenne  particulière  en  tant  qu’entité  critique,  la  Commission  devrait  pouvoir  organiser  une 
+mission de conseil afin d’évaluer les mesures mises en place par cette entité. Afin de garantir la bonne exécution de 
+ces  missions  de  conseil,  il  convient  d’établir  des  règles  complémentaires,  notamment  en  ce  qui  concerne 
+l’organisation  et  le  déroulement  des  missions  de  conseil,  les  actions  de  suivi  à  entreprendre  et  les  obligations 
+incombant  aux  entités  critiques  d’importance  européenne  particulière  concernées.  Sans  préjudice  de  la  nécessité 
+
+(19) Décision-cadre  2009/315/JAI  du  Conseil  du  26  février  2009  concernant  l’organisation  et  le  contenu  des  échanges  d’informations 
+
+extraites du casier judiciaire entre les États membres (JO L 93 du 7.4.2009, p. 23).
+
+(20) Règlement (UE) 2019/816 du Parlement européen et du Conseil du 17 avril 2019 portant création d’un système centralisé permettant 
+d’identifier les États membres détenant des informations relatives aux condamnations concernant des ressortissants de pays tiers et des 
+apatrides  (ECRIS-TCN),  qui  vise  à  compléter  le  système  européen  d’information  sur  les  casiers  judiciaires,  et  modifiant  le  règlement 
+(UE) 2018/1726 (JO L 135 du 22.5.2019, p. 1).
+
+(21) Règlement  (UE)  2018/1862  du  Parlement  européen  et  du  Conseil  du  28  novembre  2018  sur  l’établissement,  le  fonctionnement  et 
+l’utilisation  du  système  d’information  Schengen  (SIS)  dans  le  domaine  de  la  coopération  policière  et  de  la  coopération  judiciaire  en 
+matière  pénale,  modifiant  et  abrogeant  la  décision  2007/533/JAI  du  Conseil,  et  abrogeant  le  règlement  (CE)  no  1986/2006  du 
+Parlement européen et du Conseil et la décision 2010/261/UE de la Commission (JO L 312 du 7.12.2018, p. 56).
+
+27.12.2022 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+L  333/173  
+
+pour  l’État  membre  dans  lequel  la  mission  de  conseil  est  menée  et  pour  l’entité critique  concernée  de  respecter  les 
+règles  prévues  par  la  présente  directive,  les  missions  de  conseil  devraient  être  menées  sous  réserve  des  règles 
+détaillées du droit dudit État membre, par exemple en ce qui concerne les conditions précises à remplir pour obtenir 
+l’accès aux locaux ou aux documents  pertinents  et les voies de recours juridictionnel. L’expertise spécifique requise 
+pour  de  telles  missions  de  conseil  pourrait,  selon  les  besoins,  être  demandée  par  l’intermédiaire  du  centre  de 
+coordination  de  la  réaction  d’urgence  institué  par  la  décision  no  1313/2013/UE  du  Parlement  européen  et  du 
+Conseil (22).
+
+(37) Afin de soutenir la Commission et de faciliter la coopération entre les États membres et l’échange d’informations, y 
+compris  des  bonnes  pratiques,  sur  les  questions  liées  à  la  présente  directive,  il  convient  de  créer  un  groupe  sur  la 
+résilience  des  entités  critiques,  en  tant  que  groupe  d’experts  de  la  Commission.  Les  États  membres  devraient 
+s’efforcer  de  veiller  à  ce  que  les  représentants  désignés  de  leurs  autorités  compétentes  au  sein  du  groupe  sur  la 
+résilience des entités critiques coopèrent de manière efficace et efficiente, y compris en désignant des représentants 
+qui  disposent  d’une  habilitation  de  sécurité,  s’il  y  a  lieu.  Le  groupe  sur  la  résilience  des  entités  critiques  devrait 
+commencer  à  s’acquitter  de  ses  tâches  dès  que  possible,  de  manière  à  mettre  à  disposition  des  moyens 
+supplémentaires  pour  une  coopération  appropriée  pendant  la  période  de  transposition  de  la  présente  directive.  Le 
+groupe  sur  la  résilience  des  entités  critiques  devrait  interagir  avec  d’autres  groupes  de  travail  d’experts  sectoriels 
+pertinents.
+
+(38)
+
+Le groupe sur la résilience des entités critiques devrait coopérer avec le groupe de coopération créé par la directive 
+(UE)  2022/2555  afin  de  soutenir  un  cadre  global  pour  la  cyberrésilience  et  la  résilience  non  liée  à  la  cybersécurité 
+des  entités  critiques.  Le  groupe  sur  la  résilience  des  entités  critiques  et  le  groupe  de  coopération  institué  par  la 
+directive  (UE)  2022/2555  devraient  entretenir  un  dialogue  régulier  afin  de  promouvoir  la  coopération  entre  les 
+autorités  compétentes  en  vertu  de  la  présente  directive  et  les  autorités  compétentes  en  vertu  de  la  directive  (UE) 
+2022/2555  et  de  faciliter  l’échange  d’informations,  notamment  sur  des  sujets  présentant  un  intérêt  pour  les  deux 
+groupes.
+
+(39) Afin d’atteindre les objectifs de la présente directive, et sans préjudice de la responsabilité juridique qui incombe aux 
+États  membres  et  aux  entités  critiques  de  veiller  au  respect  de  leurs  obligations  respectives  qui  y  sont  énoncées,  la 
+Commission  devrait,  lorsqu’elle  le  juge approprié,  soutenir  les  autorités  compétentes  et  les  entités  critiques  afin  de 
+faciliter le respect par celles-ci de leurs obligations respectives. Lorsqu’elle apporte un soutien aux États membres et 
+aux entités critiques dans la mise en œuvre des obligations prévues dans la présente directive, la Commission devrait 
+s’appuyer sur les structures et outils existants, tels que ceux relevant du mécanisme de protection civile de l’Union, 
+établi  par  la  décision  no  1313/2013/UE,  et  du  réseau  européen  de  référence  pour  la  protection  des  infrastructures 
+critiques.  En  outre,  elle  devrait  informer  les  États  membres  des  ressources  disponibles  au  niveau  de  l’Union,  par 
+exemple  au  sein  du  Fonds  pour  la  sécurité  intérieure,  établi  par  le  règlement  (UE)  2021/1149  du  Parlement 
+européen et du Conseil (23), d’Horizon Europe, établi par le règlement (UE) 2021/695 du Parlement européen et du 
+Conseil (24), ou d’autres instruments pertinents pour la résilience des entités critiques.
+
+(40)
+
+Les États membres devraient veiller à ce que leurs autorités compétentes disposent de certains pouvoirs spécifiques 
+pour  assurer  la  bonne  application  et  l’exécution  de  la  présente  directive  à  l’égard  des  entités  critiques,  lorsque  ces 
+entités  relèvent  de  leur  compétence  comme  il  est  précisé  dans  la  présente  directive.  Ces  pouvoirs  devraient 
+comprendre  notamment  le  pouvoir  d’effectuer  des  inspections  et  des  audits,  le  pouvoir  de  superviser,  le  pouvoir 
+d’exiger des entités critiques qu’elles fournissent des informations et des éléments de preuve concernant les mesures 
+qu’elles ont prises pour  respecter leurs obligations et, lorsque c’est nécessaire, le pouvoir d’adresser des injonctions 
+afin  qu’il  soit  remédié  aux  violations  constatées.  Lorsqu’ils  adressent  de  telles  injonctions,  les  États  membres  ne 
+devraient pas exiger de mesures allant au-delà de ce qui est nécessaire  et proportionné pour garantir le respect par 
+l’entité critique concernée des obligations qui lui incombent, compte tenu, notamment, de la gravité de la violation 
+l’entité  critique  concernée.  Plus  généralement,  ces  pouvoirs  devraient 
+et  de 
+
+la  capacité  économique  de 
+
+(22) Décision no  1313/2013/UE du Parlement européen et du Conseil du 17 décembre 2013 relative au mécanisme de protection civile de 
+
+l’Union (JO L 347 du 20.12.2013, p. 924).
+
+(23) Règlement  (UE)  2021/1149  du  Parlement  européen  et  du  Conseil  du  7  juillet  2021  établissant  le  Fonds  pour  la  sécurité  intérieure 
+
+(JO L 251 du 15.7.2021, p. 94).
+
+(24) Règlement (UE) 2021/695 du Parlement européen et du Conseil du 28 avril 2021 portant établissement du programme-cadre pour la 
+recherche et l’innovation «Horizon Europe» et définissant  ses règles de participation et de diffusion, et abrogeant les règlements (UE) 
+no  1290/2013 et (UE) no  1291/2013 (JO L 170 du 12.5.2021, p. 1).
+
+L  333/174 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+27.12.2022  
+
+s’accompagner de garanties appropriées et effectives, devant être précisées dans le droit national conformément à la 
+Charte des droits fondamentaux de l’Union européenne. Lorsqu’elles évaluent le respect par les entités critiques des 
+obligations  que  leur  impose  la  présente  directive,  les  autorités  compétentes  en  vertu  de  la  présente  directive 
+devraient  pouvoir  demander  aux  autorités  compétentes  en  vertu  de  la  directive  (UE)  2022/2555  d’exercer  leurs 
+pouvoirs  de  supervision  et  d’exécution  à  l’égard  d’une  entité  relevant  de  ladite  directive  qui  a  été  désignée  en  tant 
+qu’entité  critique  en  vertu  de  la  présente  directive.  Les  autorités  compétentes  en  vertu  de  la  directive  (UE)  2022/ 
+2555 devraient coopérer et échanger des informations à cette fin.
+
+(41) Afin  que  la  présente  directive  soit  appliquée  de  manière  effective  et  cohérente,  il  convient  de  déléguer  à  la 
+Commission le pouvoir d’adopter des actes conformément à l’article 290 du traité sur le fonctionnement de l’Union 
+européenne en vue de compléter la présente directive en dressant une liste des services essentiels. Cette liste devrait 
+être utilisée  par les autorités compétentes aux  fins  de la réalisation d’évaluations  des risques  d’États  membres  et du 
+recensement  des  entités  critiques  en  vertu  de  la  présente  directive.  Compte  tenu  de  l’approche  fondée  sur  une 
+harmonisation  minimale  suivie  par  la  présente  directive,  cette  liste  n’est  pas  exhaustive  et  les  États  membres 
+pourraient  la  compléter  en  y  ajoutant  d’autres  services  essentiels  au  niveau  national  afin  de  tenir  compte  des 
+spécificités  nationales  en  ce  qui  concerne  la  fourniture  de  services  essentiels.  Il  importe  particulièrement  que  la 
+Commission  procède  aux  consultations  appropriées  durant  son  travail  préparatoire,  y  compris  au  niveau  des 
+experts, et que ces consultations soient menées conformément aux principes définis dans l’accord interinstitutionnel 
+du 13 avril 2016 «Mieux légiférer» (25). En particulier, pour assurer leur égale participation à la préparation des actes 
+délégués,  le  Parlement  européen  et  le  Conseil  reçoivent  tous  les  documents  au  même  moment  que  les  experts  des 
+États  membres, et leurs experts ont systématiquement accès aux  réunions des groupes d’experts de la Commission 
+traitant de la préparation des actes délégués.
+
+(42) Afin d’assurer des conditions uniformes d’exécution de la présente directive, il convient de conférer des compétences 
+d’exécution  à  la  Commission.  Ces  compétences  devraient  être  exercées  conformément  au  règlement  (UE) 
+no  182/2011 du Parlement européen et du Conseil (26).
+
+(43)
+
+Étant  donné  que  les  objectifs  de  la  présente  directive,  à  savoir  garantir  que  les  services  essentiels  au  maintien  de 
+fonctions  sociétales  ou  d’activités  économiques  vitales  soient  fournis  sans  entrave  dans  le  marché  intérieur  et 
+améliorer  la  résilience  des  entités  critiques  qui  fournissent  de  tels  services,  ne  peuvent  pas  être  atteints  de  manière 
+suffisante  par  les  États  membres  mais  peuvent  en  raison  des  effets  de  l’action  l’être  mieux  au  niveau  de  l’Union, 
+celle-ci  peut  prendre  des  mesures,  conformément  au  principe  de  subsidiarité  consacré  à  l’article  5  du  traité  sur 
+l’Union  européenne.  Conformément  au  principe  de  proportionnalité  énoncé  audit  article,  la  présente  directive 
+n’excède pas ce qui est nécessaire pour atteindre ces objectifs.
+
+(44)
+
+Le Contrôleur européen de la protection des données a été consulté conformément à l’article 42, paragraphe 1, du 
+règlement (UE) 2018/1725 du Parlement européen et du Conseil (27) et a rendu un avis le 11 août 2021.
+
+(45)
+
+Il convient donc d’abroger la directive 2008/114/CE,
+
+JO L 123 du 12.5.2016, p. 1.
+
+(25)
+(26) Règlement  (UE)  no  182/2011  du  Parlement  européen  et  du  Conseil  du  16  février  2011  établissant  les  règles  et  principes  généraux 
+relatifs  aux  modalités  de  contrôle  par  les  États  membres  de  l’exercice  des  compétences  d’exécution  par  la  Commission  (JO  L  55  du 
+28.2.2011, p. 13).
+
+(27) Règlement (UE) 2018/1725 du Parlement européen et du Conseil du 23 octobre 2018 relatif à la protection des personnes physiques à 
+l’égard du traitement des données à caractère personnel par les institutions, organes et organismes de l’Union et à la libre circulation de 
+ces données, et abrogeant le règlement (CE) no  45/2001 et la décision no  1247/2002/CE (JO L 295 du 21.11.2018, p. 39).
+
+27.12.2022 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+L  333/175  
+
+ONT ADOPTÉ LA PRÉSENTE DIRECTIVE:
+
+CHAPITRE I
+
+DISPOSITIONS GÉNÉRALES
+
+Article premier
+
+Objet et champ d’application
+
+1.
+
+a)
+
+La présente directive:
+
+impose  aux  États  membres  l’obligation  d’adopter  des  mesures  spécifiques  visant  à  garantir  que  les  services  qui  sont 
+essentiels  au  maintien  de  fonctions  sociétales  ou  d’activités  économiques  vitales,  dans  le  champ  d’application  de 
+l’article  114  du  traité  sur  le  fonctionnement  de  l’Union  européenne,  soient  fournis  sans  entrave  dans  le  marché 
+intérieur,  en  particulier  l’obligation  de  recenser  les  entités  critiques  et  l’obligation  d’  aider  les  entités  critiques  à 
+s’acquitter des obligations qui leur incombent;
+
+b)
+
+impose aux entités critiques des obligations visant à renforcer leur résilience et leur capacité à fournir les services visés 
+au point a) dans le marché intérieur;
+
+c) établit des règles relatives:
+
+i)
+
+à la supervision des entités critiques;
+
+ii) à l’exécution des règles;
+
+iii) au  recensement  des  entités  critiques  d’importance  européenne  particulière,  ainsi  qu’aux  missions  de  conseil  pour 
+évaluer les  mesures  que  ces entités ont mises  en place  pour satisfaire aux obligations qui  leur  incombent en vertu 
+du chapitre III;
+
+d) établit  des  procédures  communes  en  matière  de  coopération  et  d’établissement  de  rapports  sur  l’application  de  la 
+
+présente directive;
+
+e) prévoit des mesures visant à atteindre un niveau élevé de résilience des entités critiques afin de garantir la fourniture de 
+
+services essentiels dans l’Union et d’améliorer le fonctionnement du marché intérieur.
+
+2.
+La  présente  directive  ne  s’applique  pas  aux  questions  couvertes  par  la  directive  (UE)  2022/2555,  sans  préjudice  de 
+l’article 8 de la présente directive. La sécurité physique et la cybersécurité des entités critiques étant liées, les États membres 
+veillent à ce que la présente directive et la directive (UE) 2022/2555 soient mises en œuvre de manière coordonnée.
+
+3.
+Lorsque  des  dispositions  d’actes  juridiques  sectoriels  de  l’Union  exigent  des  entités  critiques  qu’elles  adoptent  des 
+mesures  pour  renforcer  leur  résilience,  et  lorsque  ces  exigences  sont  reconnues  par  les  États  membres  comme  étant  au 
+moins  équivalentes  aux  obligations  correspondantes  prévues  par  la  présente  directive,  les  dispositions  pertinentes  de  la 
+présente  directive,  y  compris  les  dispositions  relatives  à  la  supervision  et  à  l’exécution  prévues  au  chapitre  VI,  ne 
+s’appliquent pas.
+
+Sans  préjudice  de  l’article  346  du  traité  sur  le  fonctionnement  de  l’Union  européenne,  les  informations  qui  sont 
+4.
+confidentielles  en  application  de  règles  de  l’Union  ou  de  règles  nationales,  telles  que  les  règles  relatives  au  secret  des 
+affaires,  ne  peuvent  faire  l’objet  d’un  échange  avec  la  Commission  et  d’autres  autorités  concernées  conformément  à  la 
+présente  directive  que  si  cet  échange  est  nécessaire  à  l’application  de  la  présente  directive.  Les  informations  échangées  se 
+limitent  à  ce  qui  est  nécessaire  et  proportionné  à  l’objectif  de  cet  échange.  L’échange  d’informations  préserve  la 
+confidentialité  desdites  informations  ainsi  que  la  sécurité  et  les  intérêts  commerciaux  des  entités  critiques,  tout  en 
+respectant la sécurité des États membres.
+
+5.
+La présente directive est sans préjudice de la responsabilité des États membres en matière de sauvegarde de la sécurité 
+nationale  et de  la  défense  et de  leur  pouvoir  de  garantir  d’autres  fonctions  essentielles  de l’État,  notamment  celles qui  ont 
+pour objet d’assurer l’intégrité territoriale de l’État et le maintien de l’ordre public.
+
+6.
+La  présente  directive  ne  s’applique  pas  aux  entités  de  l’administration  publique  qui  exercent  leurs  activités  dans  les 
+domaines de la sécurité nationale, de la sécurité publique, de la défense ou de l’application de la loi, y compris la détection 
+des infractions pénales ainsi que les enquêtes et les poursuites en la matière.
+
+L  333/176 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+27.12.2022  
+
+7.
+Les États membres peuvent décider que l’article 11 et les chapitres III, IV et VI, en tout ou en partie, ne s’appliquent pas 
+à certaines entités critiques qui exercent des activités dans les domaines de la sécurité nationale, de la sécurité publique, de la 
+défense ou de l’application de la loi, y compris la détection des infractions pénales ainsi que les enquêtes et les poursuites en 
+la matière, ou qui fournissent des services exclusivement aux entités de l’administration publique visées au paragraphe 6 du 
+présent article.
+
+8.
+Les  obligations  prévues  dans  la  présente  directive  n’impliquent  pas  la  fourniture  d’informations  dont  la  divulgation 
+serait  contraire  aux  intérêts  essentiels  des  États  membres  en  matière  de  sécurité  nationale,  de  sécurité  publique  ou  de 
+défense.
+
+9.
+La présente directive est sans préjudice du droit de l’Union relatif à la protection des données à caractère personnel, en 
+particulier le règlement (UE) 2016/679 du Parlement européen et du Conseil (28) et la directive 2002/58/CE du Parlement 
+européen et du Conseil (29).
+
+Article 2
+
+Définitions
+
+Aux fins de la présente directive, on entend par:
+
+1)
+
+2)
+
+3)
+
+4)
+
+5)
+
+6)
+
+7)
+
+«entité  critique»,  une  entité  publique  ou  privée  qui  a  été  désignée  par  un  État  membre  conformément  à  l’article  6 
+comme appartenant à l’une des catégories qui figurent dans la troisième colonne du tableau de l’annexe;
+
+«résilience», la capacité d’une entité critique à prévenir tout incident, à s’en protéger, à y réagir, à y résister, à l’atténuer, à 
+l’absorber, à s’y adapter et à s’en rétablir;
+
+«incident», un événement qui perturbe ou est susceptible de perturber de manière importante la fourniture d’un service 
+essentiel, y compris lorsqu’il affecte les systèmes nationaux qui préservent l’état de droit;
+
+«infrastructure critique», un bien, une installation, un équipement, un réseau ou un système, ou une partie d’un bien, 
+d’une  installation,  d’un  équipement,  d’un  réseau  ou  d’un  système,  qui  est  nécessaire  à  la  fourniture  d’un  service 
+essentiel;
+
+«service essentiel», un service qui est crucial pour le maintien de fonctions sociétales ou d’activités économiques vitales, 
+de la santé publique et de la sûreté publique, ou de l’environnement;
+
+«risque»,  le  potentiel  de  perte  ou  de  perturbation  causé  par  un  incident,  à  exprimer  comme  la  combinaison  de 
+l’ampleur de cette perte ou de cette perturbation et la probabilité que l’incident se produise;
+
+«évaluation  des  risques»,  l’ensemble  du  processus  permettant  de  déterminer  la  nature  et  l’étendue  d’un  risque  en 
+déterminant et en analysant les menaces, les vulnérabilités et les dangers potentiels pertinents qui pourraient conduire 
+à un incident et en évaluant la perte ou la perturbation potentielle de la fourniture d’un service essentiel causée par cet 
+incident;
+
+8)
+
+«norme»,  une  norme  au  sens  de  l’article  2,  point  1),  du  règlement  (UE)  no  1025/2012  du  Parlement  européen  et  du 
+Conseil (30);
+
+(28) Règlement  (UE)  2016/679  du  Parlement européen  et  du  Conseil  du  27  avril  2016  relatif  à  la  protection  des  personnes  physiques  à 
+l’égard  du  traitement  des  données  à  caractère  personnel  et  à  la  libre  circulation  de  ces  données,  et  abrogeant  la  directive  95/46/CE 
+(règlement général sur la protection des données) (JO L 119 du 4.5.2016, p. 1).
+
+(29) Directive  2002/58/CE  du  Parlement  européen  et  du  Conseil  du  12  juillet  2002  concernant  le  traitement  des  données  à  caractère 
+personnel et la protection de la vie privée dans le secteur des communications électroniques (directive vie privée et communications 
+électroniques) (JO L 201 du 31.7.2002, p. 37).
+
+(30) Règlement  (UE)  no  1025/2012  du  Parlement  européen  et  du  Conseil  du  25  octobre  2012  relatif  à  la  normalisation  européenne, 
+modifiant  les  directives  89/686/CEE  et  93/15/CEE  du  Conseil  ainsi  que  les  directives  94/9/CE,  94/25/CE,  95/16/CE,  97/23/CE, 
+98/34/CE,  2004/22/CE,  2007/23/CE,  2009/23/CE  et  2009/105/CE  du  Parlement  européen  et  du  Conseil  et  abrogeant  la  décision 
+87/95/CEE du Conseil et la décision no  1673/2006/CE du Parlement européen et du Conseil (JO L 316 du 14.11.2012, p. 12).
+
+27.12.2022 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+L  333/177  
+
+9)
+
+«spécification technique», une spécification technique au sens de l’article 2, point 4), du règlement (UE) no  1025/2012;
+
+10) «entité de l’administration publique», une entité reconnue comme telle dans un État membre conformément au droit 
+national,  à  l’exclusion  de  l’organisation  judiciaire,  des  parlements  et  des  banques  centrales,  qui  satisfait  aux  critères 
+suivants:
+
+a) elle a été créée pour satisfaire des besoins d’intérêt général et n’a pas de caractère industriel ou commercial;
+
+b) elle  est  dotée  de  la  personnalité  juridique  ou  est  juridiquement  habilitée  à  agir  pour  le  compte  d’une  autre  entité 
+
+dotée de la personnalité juridique;
+
+c) elle est financée majoritairement par les autorités de l’État ou d’autres organismes de droit public de niveau central, 
+ou sa gestion est soumise à un contrôle de la part de ces autorités ou organismes, ou son organe d’administration, 
+de direction ou de surveillance est composé, pour plus de la moitié, de membres désignés par les autorités de l’État 
+ou d’autres organismes de droit public de niveau central;
+
+d) elle a le pouvoir d’adresser à des personnes physiques ou morales des décisions administratives ou réglementaires 
+affectant  leurs  droits  en  matière  de  mouvements  transfrontières  des  personnes,  des  biens,  des  services  ou  des 
+capitaux.
+
+Article 3
+
+Harmonisation minimale
+
+La présente directive ne fait pas obstacle à l’adoption ou au maintien par les États membres de dispositions de droit national 
+afin d’atteindre un niveau plus élevé de résilience des entités critiques, à condition que ces dispositions soient compatibles 
+avec les obligations des États membres prévues par le droit de l’Union.
+
+CHAPITRE II
+
+CADRES NATIONAUX POUR LA RÉSILIENCE DES ENTITÉS CRITIQUES
+
+Article 4
+
+Stratégie pour la résilience des entités critiques
+
+1.
+À  la  suite  d’une  consultation  qui  est,  dans  la  mesure  du  possible  en  pratique,  ouverte  aux  parties  prenantes 
+concernées, chaque État membre adopte, au plus tard le 17 janvier 2026, une  stratégie visant à renforcer la résilience des 
+entités critiques (ci-après dénommée «stratégie»). La stratégie définit des objectifs stratégiques et des mesures politiques, en 
+s’appuyant  sur  des  stratégies  nationales  et  sectorielles,  des  plans  ou  des  documents  similaires  pertinents  existants,  en  vue 
+d’atteindre et de maintenir  un niveau élevé de résilience des entités critiques et de couvrir au moins les secteurs figurant à 
+l’annexe.
+
+2.
+
+a)
+
+Chaque stratégie contient au moins les éléments suivants:
+
+les objectifs stratégiques et les priorités aux fins de renforcer la résilience globale des entités critiques, compte tenu des 
+dépendances et des interdépendances transfrontières et transsectorielles;
+
+b) un cadre de gouvernance permettant d’atteindre les objectifs stratégiques et les priorités, y compris une description des 
+rôles et des responsabilités des différentes autorités, entités critiques et autres parties participant à la mise en œuvre de la 
+stratégie;
+
+c) une  description  des  mesures  nécessaires  pour  renforcer  la  résilience  globale  des  entités  critiques,  y  compris  une 
+
+description de l’évaluation des risques visée à l’article 5;
+
+d) une description du processus par lequel les entités critiques sont recensées;
+
+L  333/178 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+27.12.2022  
+
+e) une description du processus de soutien aux entités critiques conformément au présent chapitre, y compris les mesures 
+visant à renforcer la coopération entre le secteur public, d’une part, et le secteur privé et les entités publiques et privées, 
+d’autre part;
+
+f) une liste des principales autorités et parties prenantes concernées, autres que les entités critiques, participant à la mise en 
+
+œuvre de la stratégie;
+
+g) un  cadre  d’action  pour  la  coordination  entre  les  autorités  compétentes  en  vertu  de  la  présente  directive  (ci-après 
+dénommées «autorités compétentes») et les autorités compétentes en vertu de la directive (UE) 2022/2555 aux fins du 
+partage  d’informations  sur  les  risques,  menaces  et  incidents  en  matière  de  cybersécurité  ainsi  que  sur  les  risques, 
+menaces et incidents non liés à la cybersécurité, et de l’exercice des tâches de supervision;
+
+h) une description des mesures déjà en place visant à faciliter la mise en œuvre des obligations prévues au chapitre III de la 
+présente directive par les petites et moyennes entreprises au sens de l’annexe de la recommandation 2003/361/CE de la 
+Commission (31) que les États membres concernés ont recensées en tant qu’entités critiques.
+
+À la suite d’une consultation qui est, dans la mesure du possible en pratique, ouverte aux parties prenantes concernées, les 
+États membres mettent à jour leur stratégie au moins tous les quatre ans.
+
+Les États membres communiquent leur stratégie et leurs mises à jour substantielles à la Commission dans un délai de 
+
+3.
+trois mois à compter de leur adoption.
+
+Article 5
+
+Évaluation des risques par les États membres
+
+1.
+La  Commission  est  habilitée  à  adopter  un  acte  délégué,  conformément  à  l’article  23,  au  plus  tard  le  17  novembre 
+2023, afin de compléter la présente directive en établissant une liste non exhaustive de services essentiels dans les secteurs 
+et les sous-secteurs figurant à l’annexe. Les autorités compétentes utilisent ladite liste des services essentiels pour effectuer 
+une  évaluation  des  risques  (ci-après  dénommée  «évaluation  des  risques  d’État  membre»)  au  plus  tard  le  17  janvier  2026, 
+puis selon les besoins, et au moins tous les quatre ans. Les autorités compétentes utilisent les évaluations des risques d’États 
+membres aux fins de recenser les entités critiques conformément à l’article 6 et pour aider les entités critiques à adopter des 
+mesures en vertu de l’article 13.
+
+Les évaluations des risques d’États membres rendent compte des risques naturels et d’origine humaine pertinents, y compris 
+ceux  qui  revêtent  un  caractère  transsectoriel  ou  transfrontière,  des  accidents,  des  catastrophes  naturelles,  des  urgences  de 
+santé publique et des menaces hybrides ou autres menaces antagonistes, lesquelles comprennent les infractions terroristes 
+prévues par la directive (UE) 2017/541 du Parlement européen et du Conseil (32).
+
+Lorsqu’ils procèdent à des évaluations des risques d’États membres, les États membres tiennent compte au moins des 
+
+2.
+éléments suivants:
+
+a)
+
+l’évaluation des risques générale effectuée en vertu de l’article 6, paragraphe 1, de la décision no  1313/2013/UE;
+
+b) d’autres  évaluations  des  risques  pertinentes  effectuées  conformément  aux  exigences  des  actes  juridiques  sectoriels 
+pertinents de l’Union, y compris les règlements (UE) 2017/1938 (33) et (UE) 2019/941 (34) du Parlement européen et du 
+Conseil, ainsi que les directives 2007/60/CE (35) et 2012/18/UE (36) du Parlement européen et du Conseil;
+
+(31) Recommandation 2003/361/CE de la Commission du 6 mai 2003 concernant la définition des micro, petites et moyennes entreprises 
+
+(JO L 124 du 20.5.2003, p. 36).
+
+(32) Directive (UE) 2017/541 du Parlement européen et du Conseil du 15 mars 2017 relative à la lutte contre le terrorisme et remplaçant la 
+
+décision-cadre 2002/475/JAI du Conseil et modifiant la décision 2005/671/JAI du Conseil (JO L 88 du 31.3.2017, p. 6).
+
+(33) Règlement  (UE)  2017/1938  du  Parlement  européen  et  du  Conseil  du  25  octobre  2017  concernant  des  mesures  visant  à  garantir  la 
+
+sécurité de l’approvisionnement en gaz naturel et abrogeant le règlement (UE) no  994/2010 (JO L 280 du 28.10.2017, p. 1).
+
+(34) Règlement  (UE)  2019/941  du  Parlement  européen  et  du  Conseil  du  5  juin  2019  sur  la  préparation  aux  risques  dans  le  secteur  de 
+
+l’électricité et abrogeant la directive 2005/89/CE (JO L 158 du 14.6.2019, p. 1).
+
+(35) Directive  2007/60/CE  du  Parlement  européen  et  du  Conseil  du  23  octobre  2007  relative  à  l’évaluation  et  à  la  gestion  des  risques 
+
+d’inondation (JO L 288 du 6.11.2007, p. 27).
+
+(36) Directive  2012/18/UE  du  Parlement  européen  et  du  Conseil  du  4  juillet  2012  concernant  la  maîtrise  des  dangers  liés  aux  accidents 
+majeurs impliquant des substances dangereuses, modifiant puis abrogeant la directive 96/82/CE du Conseil (JO L 197 du 24.7.2012, 
+p. 1).
+
+27.12.2022 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+L  333/179  
+
+c)
+
+les risques pertinents découlant de la mesure dans laquelle les secteurs figurant à l’annexe dépendent les uns des autres, y 
+compris  de  la  mesure  dans  laquelle  ils  dépendent  d’entités  situées  dans  d’autres  États  membres  et  des  pays  tiers,  et 
+l’incidence  qu’une  perturbation  importante  dans  un  secteur  peut  avoir  sur  d’autres  secteurs,  y  compris  tout  risque 
+importante pour les citoyens et le marché intérieur;
+
+d)
+
+toute information sur les incidents notifiés conformément à l’article 15.
+
+Aux fins du premier alinéa, point c), les États membres coopèrent avec les autorités compétentes d’autres États membres et 
+les autorités compétentes de pays tiers, s’il y a lieu.
+
+3.
+Les États membres mettent à la disposition des entités critiques qu’ils ont recensées conformément à l’article 6, s’il y a 
+lieu par l’intermédiaire de leur point de contact unique, les éléments pertinents des évaluations des risques d’États membres. 
+Les  États  membres  veillent  à  ce  que  les  informations  fournies  aux  entités  critiques  aident  ces  dernières  à  réaliser  leurs 
+évaluations des risques en vertu de l’article 12, et à adopter des mesures pour garantir leur résilience en vertu de l’article 13.
+
+Dans  un  délai  de  trois  mois  à  compter  de  la  réalisation  d’une  évaluation  des  risques  d’État  membre,  l’État  membre 
+4.
+fournit à la Commission des informations pertinentes sur les types de risques recensés suivant cette évaluation des risques 
+d’État membre et les résultats de l’évaluation des risques d’État membre, par secteur et sous-secteur figurant à l’annexe.
+
+La Commission, en coopération avec les États membres, élabore un modèle commun facultatif de rapport aux fins du 
+
+5.
+respect du paragraphe 4.
+
+Article 6
+
+Recensement des entités critiques
+
+Au  plus  tard  le  17  juillet  2026,  chaque  État  membre  recense  les  entités  critiques  pour  les  secteurs  et  sous-secteurs 
+
+1.
+figurant à l’annexe.
+
+Lorsqu’un  État  membre  recense  les  entités  critiques  en  vertu  du  paragraphe  1,  il  tient  compte  des  résultats  de  son 
+
+2.
+évaluation des risques d’État membre et de sa stratégie et applique tous les critères suivants:
+
+a)
+
+l’entité fournit un ou plusieurs services essentiels;
+
+b)
+
+l’entité exerce ses activités sur le territoire dudit État membre et son infrastructure critique est située sur ledit territoire; et
+
+c) un  incident  aurait  des  effets  perturbateurs  importants,  déterminés  conformément  à  l’article  7,  paragraphe  1,  sur  la 
+fourniture  par  l’entité  d’un  ou  de  plusieurs  services  essentiels  ou  sur  la  fourniture  d’autres  services  essentiels  dans  les 
+secteurs figurant à l’annexe qui dépendent dudit ou desdits services essentiels.
+
+3.
+Chaque  État  membre  dresse  une  liste  des  entités  critiques  recensées  en  vertu  du  paragraphe  2  et  veille  à  ce  que  ces 
+entités critiques reçoivent notification de ce qu’elles ont été recensées en tant qu’entités critiques dans un délai d’un mois à 
+compter de ce recensement. Les États membres informent ces entités critiques des obligations qui leur incombent en vertu 
+des chapitres III et IV et de la date à partir de laquelle ces obligations leur sont applicables, sans préjudice de l’article 8. Les 
+États  membres  informent  les  entités  critiques  des  secteurs  figurant  aux  points  3,  4  et  8  du  tableau  de  l’annexe  qu’elles  ne 
+sont soumises à aucune des obligations prévues aux chapitres III et IV, sauf mesures nationales contraires.
+
+Le chapitre III s’applique aux entités critiques concernées dix mois suivant la date de la notification visée au premier alinéa 
+du présent paragraphe.
+
+4.
+Les  États  membres  veillent  à  ce  que  leurs  autorités  compétentes  en  vertu  de  la  présente  directive  notifient  aux 
+autorités compétentes en vertu de la  directive (UE) 2022/2555  l’identité des  entités critiques qu’ils  ont recensées en vertu 
+du présent article dans un délai d’un mois à compter dudit recensement. Cette notification précise, le cas échéant, que les 
+entités critiques concernées sont des entités des secteurs figurant aux points 3, 4 et 8 du tableau de l’annexe de la présente 
+directive et qu’elles ne sont soumises à aucune des obligations prévues aux chapitres III et IV de la présente directive.
+
+L  333/180 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+27.12.2022  
+
+5.
+Si  nécessaire  et  en  tout  état  de  cause  au  moins  tous  les  quatre  ans,  les  États  membres  réexaminent  et,  s’il  y  a  lieu, 
+mettent  à  jour  la  liste  des  entités  critiques  recensées  visées  au  paragraphe  3.  Lorsque  ces  mises  à  jour  entraînent  le 
+recensement d’entités critiques supplémentaires, les paragraphes 3 et 4 s’appliquent à ces entités critiques supplémentaires. 
+En outre, les États membres veillent à ce que les entités qui ne sont plus recensées en tant qu’entités critiques à la suite d’une 
+telle  mise  à  jour  reçoivent  notification  en  temps  utile  de  ce  fait  et  du  fait  qu’elles  ne  sont  plus  soumises  aux  obligations 
+prévues au chapitre III à compter de la date de réception de cette notification.
+
+La Commission élabore, en  coopération avec  les États membres,  des  recommandations et des lignes  directrices  non 
+
+6.
+contraignantes pour soutenir les États membres dans leur recensement des entités critiques.
+
+Article 7
+
+Effet perturbateur important
+
+Lorsqu’ils déterminent l’importance d’un effet perturbateur visé à l’article 6, paragraphe 2, point c), les États membres 
+
+1.
+prennent en compte les critères suivants:
+
+a)
+
+le nombre d’utilisateurs tributaires du service essentiel fourni par l’entité concernée;
+
+b)
+
+la mesure dans laquelle les autres secteurs et sous-secteurs figurant à l’annexe dépendent du service essentiel en question;
+
+c)
+
+l’impact que des incidents pourraient avoir, du point de vue de l’ampleur et de la durée, sur les activités économiques et 
+sociétales, l’environnement, la sûreté et la sécurité publiques, ou la santé de la population;
+
+d)
+
+la part de marché de l’entité sur le marché du ou des services essentiels concernés;
+
+e)
+
+la zone géographique susceptible d’être affectée par un incident, y compris toute incidence transfrontière, compte tenu 
+de  la  vulnérabilité  associée  au  degré  d’isolement  de  certains  types  de  zones  géographiques,  telles  que  les  régions 
+insulaires, les régions éloignées ou les zones montagneuses;
+
+f)
+
+l’importance que revêt l’entité pour le maintien d’un niveau suffisant de service essentiel, compte tenu de la disponibilité 
+de solutions de rechange pour la fourniture de ce service essentiel.
+
+Après le recensement des entités critiques en vertu de l’article 6, paragraphe 1, chaque État membre communique les 
+
+2.
+informations suivantes à la Commission, sans retard injustifié:
+
+a) une liste de services essentiels dans ledit État membre lorsqu’il existe des services essentiels supplémentaires par rapport 
+
+à la liste des services essentiels visée à l’article 5, paragraphe 1;
+
+b)
+
+le  nombre  d’entités  critiques  recensées  pour  chaque  secteur  et  sous-secteur  figurant  à  l’annexe  et  pour  chaque  service 
+essentiel;
+
+c)
+
+les seuils éventuellement appliqués en vue de préciser un ou plusieurs des critères du paragraphe 1.
+
+Les seuils visés au premier alinéa, point c), peuvent être présentés tels quels ou sous une forme agrégée.
+
+Les États membres communiquent ensuite les informations visées au premier alinéa, chaque fois que cela est nécessaire et au 
+moins tous les quatre ans.
+
+3.
+Après consultation du groupe sur la résilience des entités critiques visé à l’article 19, la Commission adopte des lignes 
+directrices  non  contraignantes  pour  faciliter  l’application  des  critères  visés  au  paragraphe  1  du  présent  article,  en  tenant 
+compte des informations visées au paragraphe 2 du présent article.
+
+27.12.2022 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+L  333/181  
+
+Article 8
+
+Entités critiques des secteurs des banques, des infrastructures des marchés financiers et des infrastructures 
+numériques
+
+Les États membres veillent à ce que l’article 11 et les chapitres III, IV et VI ne s’appliquent pas aux entités critiques qu’ils ont 
+recensées  dans  les  secteurs  figurant  aux  points  3,  4  et  8  du  tableau  de  l’annexe.  Les  États  membres  peuvent  adopter  ou 
+maintenir  des  dispositions  de  droit  national  afin  d’atteindre  un  niveau  de  résilience  plus  élevé  pour  ces  entités  critiques  à 
+condition que ces dispositions soient compatibles avec le droit de l’Union applicable.
+
+Article 9
+
+Autorités compétentes et point de contact unique
+
+Chaque  État  membre  désigne  ou  met  en  place  une  ou  plusieurs  autorités  compétentes  chargées  de  veiller  à 
+1.
+l’application correcte des règles énoncées dans la présente directive au niveau national et, si nécessaire, de les faire respecter.
+
+En ce qui concerne les entités critiques des secteurs figurant aux points 3 et 4 du tableau de l’annexe de la présente directive, 
+les autorités compétentes sont, en principe, les autorités compétentes visées à l’article 46 du règlement (UE) 2022/2554 En 
+ce  qui  concerne  les  entités  critiques  du  secteur  figurant  au  point  8  du  tableau  de  l’annexe  de  la  présente  directive,  les 
+autorités  compétentes  sont,  en  principe,  les  autorités  compétentes  en  vertu  de  la  directive  (UE)  2022/2555.  Les  États 
+membres peuvent désigner une autorité compétente différente pour les secteurs figurant aux points 3, 4 et 8 du tableau de 
+l’annexe de la présente directive conformément aux cadres nationaux existants.
+
+Lorsqu’ils désignent ou mettent en place plus d’une autorité compétente, les États membres définissent clairement les tâches 
+de  chacune  des  autorités  concernées  et  veillent  à  ce  qu’elles  coopèrent  efficacement  pour  accomplir  les  tâches  qui  leur 
+incombent en vertu de la présente directive, y compris en ce qui concerne la désignation et les activités du point de contact 
+unique visé au paragraphe 2.
+
+2.
+Chaque  État membre  désigne  ou  met en place  un point  de contact  unique,  chargé  d’exercer  une  fonction  de liaison 
+afin  d’assurer  la coopération transfrontière  avec  les points de contact  uniques des  autres  États membres  et  avec le  groupe 
+sur  la  résilience  des  entités  critiques  visé  à  l’article  19  (ci-après  dénommé  «point  de  contact  unique»).  S’il  y  a  lieu,  un  État 
+membre désigne son point de contact unique au sein d’une autorité compétente. S’il y a lieu, un État membre peut prévoir 
+que  son  point  de  contact  unique  exerce  également  une  fonction  de  liaison  avec  la  Commission  et  assure  la  coopération 
+avec les pays tiers.
+
+3.
+Au  plus  tard  le  17  juillet  2028,  et  tous  les  deux  ans  par  la  suite,  les  points  de  contact  uniques  présentent  à  la 
+Commission  et  au  groupe  sur  la  résilience  des  entités  critiques  visé  à  l’article  19  un  rapport  de  synthèse  sur  les 
+notifications  qu’ils  ont  reçues,  mentionnant  le  nombre  de  notifications,  la  nature  des  incidents  signalés  et  les  mesures 
+prises conformément à l’article 15, paragraphe 3.
+
+La  Commission,  en  coopération  avec  le  groupe  sur  la  résilience  des  entités  critiques,  élabore  un  modèle  commun  de 
+rapport.  Les  autorités  compétentes  peuvent  utiliser,  à  titre  volontaire,  ce  modèle  commun  de  rapport  aux  fins  de  la 
+présentation des rapports de synthèse visés au premier alinéa.
+
+4.
+Chaque État membre veille à ce que son autorité compétente et son point de contact unique disposent des pouvoirs et 
+des  ressources financières, humaines et techniques nécessaires  pour accomplir, de manière efficace et efficiente, les tâches 
+qui leur sont assignées.
+
+5.
+Chaque  État  membre  veille  à  ce  que  son  autorité  compétente  consulte,  chaque  fois  que  cela  est  approprié,  et 
+conformément au droit de l’Union et au droit national, les autres autorités nationales concernées, y compris celles chargées 
+de la protection civile, de l’application de la loi et de la protection des données à caractère personnel, et les entités critiques 
+et les parties intéressées concernées, et à ce qu’elle coopère avec celles-ci.
+
+6.
+Chaque État membre veille à ce que son autorité compétente en vertu de la présente directive coopère et échange des 
+informations avec les autorités compétentes en vertu de la directive (UE) 2022/2555 sur les risques, menaces et incidents en 
+matière de cybersécurité et sur les risques, menaces et incidents non liés à la cybersécurité affectant les entités critiques, y 
+compris  en ce qui concerne les mesures pertinentes que son autorité compétente et les autorités compétentes en vertu de 
+la directive (UE) 2022/2555 ont prises.
+
+L  333/182 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+27.12.2022  
+
+7.
+Dans les trois mois à compter de la désignation ou de la mise en place de l’autorité compétente et du point de contact 
+unique,  chaque  État  membre  notifie  à  la  Commission  leur  identité  et  les  tâches  et  responsabilités  qui  leur  incombent  en 
+vertu  de  la  présente  directive,  leurs  coordonnées,  ainsi  que  toute  modification  ultérieure  y  relative.  Les  États  membres 
+informent  la  Commission  lorsqu’ils  décident  de  désigner  une  autorité  autre  que  les  autorités  compétentes  visées  au 
+paragraphe  1,  deuxième  alinéa,  en  tant  qu’autorités  compétentes  à  l’égard  des  entités  critiques  des  secteurs  figurant  aux 
+points 3, 4 et 8 du tableau de l’annexe. Chaque État membre rend publique l’identité de son autorité compétente et de son 
+point de contact unique.
+
+8.
+
+La Commission met une liste des points de contact uniques à la disposition du public.
+
+Article 10
+
+Soutien des États membres aux entités critiques
+
+1.
+Les  États  membres  aident  les  entités  critiques  à  renforcer  leur  résilience.  Dans  ce  cadre,  ils  peuvent  élaborer  des 
+documents  d’orientation  et  des  méthodologies,  apporter  leur  soutien  à  l’organisation  d’exercices  visant  à  tester  leur 
+résilience  et  dispenser  des  conseils  et  des  formations  au  personnel  des  entités  critiques.  Sans  préjudice  des  règles 
+applicables  en  matière  d’aides  d’État,  les  États  membres  peuvent  fournir  des  ressources  financières  aux  entités  critiques, 
+lorsque cela est nécessaire et justifié par des objectifs d’intérêt général.
+
+Chaque  État  membre  veille  à  ce  que  son  autorité  compétente  coopère  et  échange  des  informations  et  des  bonnes 
+
+2.
+pratiques avec les entités critiques des secteurs figurant à l’annexe.
+
+3.
+Les États membres facilitent le partage volontaire d’informations entre les entités critiques sur les questions couvertes 
+par la présente directive, conformément  au droit de l’Union et au droit national  en matière, en particulier, d’informations 
+classifiées et sensibles, de concurrence et de protection des données à caractère personnel.
+
+Article 11
+
+Coopération entre États membres
+
+Chaque fois que  cela  est approprié,  les  États  membres  se  consultent mutuellement  au  sujet  des  entités critiques  aux 
+1.
+fins  d’assurer  l’application  cohérente  de  la  présente  directive.  Ces  consultations  ont  lieu  en  particulier  au  sujet  des  entités 
+critiques qui:
+
+a) utilisent des infrastructures critiques qui sont physiquement connectées entre deux États membres ou plus;
+
+b)
+
+font partie de structures d’entreprise qui sont connectées ou liées à des entités critiques dans d’autres États membres;
+
+c) ont  été  recensées  en  tant  qu’entités  critiques  dans  un  État  membre  et  fournissent  des  services  essentiels  à  ou  dans 
+
+d’autres États membres.
+
+Les consultations visées au paragraphe 1 visent à renforcer la résilience des entités critiques et, si possible, à réduire la 
+
+2.
+charge administrative pesant sur celles-ci.
+
+CHAPITRE III
+
+RÉSILIENCE DES ENTITÉS CRITIQUES
+
+Article 12
+
+Évaluation des risques par les entités critiques
+
+1.
+Nonobstant le délai énoncé à l’article 6, paragraphe 3, deuxième alinéa, les États membres veillent à ce que les entités 
+critiques procèdent  à une évaluation  des risques  dans un délai de neuf mois  suivant la réception de la  notification visée  à 
+l’article  6,  paragraphe  3,  selon  les  besoins  par  la  suite  et  au  moins  tous  les  quatre  ans,  sur  la  base  des  évaluations  des 
+risques  d’États  membres  et  d’autres  sources  d’informations  pertinentes,  afin  d’évaluer  tous  les  risques  pertinents  qui 
+pourraient perturber la fourniture de leur services essentiels (ci-après dénommée «évaluation des risques d’entité critique»).
+
+27.12.2022 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+L  333/183  
+
+2.
+Les  évaluations  des  risques  d’entités  critiques  rendent  compte  de  tous  les  risques  naturels  et  d’origine  humaine 
+pertinents,  susceptibles  d’entraîner  un  incident,  y compris  ceux  qui  revêtent  un  caractère  transsectoriel  ou  transfrontière, 
+des  accidents,  des  catastrophes  naturelles,  des  urgences  de  santé  publique  et  des  menaces  hybrides  et  autres  menaces 
+antagonistes, lesquelles comprennent les infractions terroristes prévues par la directive (UE) 2017/541. Une évaluation des 
+risques d’entité critique tient compte de la mesure dans laquelle d’autres secteurs figurant  à l’annexe dépendent du service 
+essentiel fourni par l’entité critique et de la mesure dans laquelle cette entité critique dépend des services essentiels fournis 
+par d’autres entités de ces autres secteurs, y compris s’il y a lieu, dans les États membres voisins et les pays tiers.
+
+Lorsqu’une entité critique a réalisé d’autres évaluations des risques ou établi des documents en vertu d’obligations prévues 
+dans  d’autres  actes  juridiques  qui  sont  pertinents  pour  son  évaluation  des  risques  d’entité  critique,  elle  peut  utiliser  ces 
+évaluations et documents pour satisfaire aux exigences énoncées dans le présent article. Dans l’exercice de ses fonctions de 
+supervision, l’autorité compétente peut déclarer qu’une évaluation des risques existante réalisée par  une entité critique qui 
+porte sur les risques et le degré de dépendance visés au premier alinéa du présent paragraphe respecte, en tout ou en partie, 
+les obligations prévues par le présent article.
+
+Article 13
+
+Mesures de résilience des entités critiques
+
+1.
+Les États membres veillent à ce que les entités critiques prennent des mesures techniques, des mesures de sécurité et 
+des  mesures  organisationnelles  appropriées  et  proportionnées  pour  garantir  leur  résilience,  sur  la  base  des  informations 
+pertinentes fournies par les États membres concernant l’évaluation des risques d’État membre et les résultats de l’évaluation 
+des risques d’entité critique, y compris des mesures nécessaires pour:
+
+a) prévenir  la  survenance  d’incidents,  en  tenant  dûment  compte  de  mesures  de  réduction  des  risques  de  catastrophe  et 
+
+d’adaptation au changement climatique;
+
+b) assurer  une  protection  physique  adéquate  de  leurs  locaux  et  infrastructures  critiques,  en  prenant  dûment  en 
+considération,  par  exemple,  des  clôtures,  des  barrières,  des  outils  et  procédures  de  surveillance  des  enceintes,  et  des 
+équipements de détection et de contrôle des accès;
+
+c) réagir et résister aux conséquences des incidents et les atténuer, en prenant dûment en considération la mise en œuvre de 
+
+procédures et protocoles de gestion des risques et des crises et de procédures d’alerte;
+
+d) se  rétablir  d’incidents,  en  prenant  dûment  en  considération  des  mesures  assurant  la  continuité  des  activités  et  la 
+
+détermination d’autres chaînes d’approvisionnement, afin de reprendre la fourniture du service essentiel;
+
+e) assurer une gestion adéquate de la sécurité liée au personnel, en prenant dûment en considération des mesures telles que 
+la définition des catégories de personnel qui exerce des fonctions critiques, l’établissement de droits d’accès aux locaux, 
+aux  infrastructures  critiques  et  aux  informations  sensibles,  la  mise  en  place  de  procédures  de  vérification  des 
+antécédents  conformément  à  l’article  14,  la  désignation  des  catégories  de  personnes  tenues  de  faire  l’objet  de  telles 
+vérifications des antécédents et la définition d’exigences et de qualifications appropriées en matière de formation;
+
+f)
+
+sensibiliser  le  personnel  concerné  aux  mesures  visées  aux  points  a)  à  e),  en  tenant  dûment  compte  des  séances  de 
+formation, du matériel d’information et des exercices.
+
+Aux fins du premier alinéa, point e), les États membres veillent à ce que les entités critiques tiennent compte du personnel 
+des prestataires de services extérieurs lorsqu’ils définissent les catégories de personnel qui exerce des fonctions critiques.
+
+2.
+Les États membres veillent à ce que les entités critiques aient mis en place et appliquent un plan de résilience ou un ou 
+plusieurs  documents  équivalents,  qui  décrivent  les  mesures  prises  en  application  du  paragraphe  1.  Lorsque  les  entités 
+critiques  ont élaboré des  documents  ou pris des mesures en vertu  d’obligations prévues dans  d’autres actes juridiques qui 
+sont  pertinents  pour  les  mesures  visées  au  paragraphe  1,  elles  peuvent  utiliser  ces  documents  et  mesures  pour  satisfaire 
+aux exigences énoncées dans le présent article. Dans l’exercice de ses fonctions de supervision, l’autorité compétente peut 
+déclarer que des mesures existantes de renforcement de la résilience prises par  une entité critique qui portent, de manière 
+appropriée et proportionnée, sur les mesures techniques, les mesures de sécurité et les mesures organisationnelles visées au 
+paragraphe 1 respectent, en tout ou en partie, les obligations prévues par le présent article.
+
+L  333/184 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+27.12.2022  
+
+Les  États  membres  veillent  à  ce  que  chaque  entité  critique  désigne  un  agent  de  liaison  ou  une  personne  ayant  une 
+
+3.
+fonction équivalente en tant que point de contact avec les autorités compétentes.
+
+À  la  demande  de  l’État  membre  qui  a  déterminé  l’entité  critique  et  avec  l’accord  de  l’entité  critique  concernée,  la 
+4.
+Commission  organise  des  missions  de conseil,  conformément  aux  modalités prévues  à l’article  18,  paragraphes  6,  8  et  9, 
+afin de conseiller l’entité critique concernée en vue du respect des obligations qui lui incombent en vertu du chapitre III. La 
+mission de conseil communique ses conclusions à la Commission, audit État membre et à l’entité critique concernée.
+
+5.
+Après consultation du groupe sur la résilience des entités critiques visé à l’article 19, la Commission adopte des lignes 
+directrices  non  contraignantes  afin  de  préciser  davantage  les  mesures  techniques,  les  mesures  de  sécurité  et  les  mesures 
+organisationnelles qui peuvent être prises en vertu du paragraphe 1 du présent article.
+
+6.
+La  Commission  adopte  des  actes  d’exécution  afin  d’établir  les  spécifications  techniques  et  méthodologiques 
+nécessaires  relatives  à  l’application  des  mesures  visées  au  paragraphe  1  du  présent  article.  Ces  actes  d’exécution  sont 
+adoptés en conformité avec la procédure d’examen visée à l’article 24, paragraphe 2.
+
+Article 14
+
+Vérification des antécédents
+
+Les  États  membres  précisent  les  conditions  dans  lesquelles  une  entité  critique  est  autorisée,  dans  des  cas  dûment 
+1.
+motivés  et  compte  tenu  de  l’évaluation  des  risques  d’État  membre,  à  présenter  des  demandes  de  vérification  des 
+antécédents des personnes:
+
+a) qui occupent des fonctions sensibles au sein de l’entité critique ou au bénéfice de celle-ci, notamment en ce qui concerne 
+
+la résilience de l’entité critique;
+
+b) qui  sont  autorisées  à  avoir  un  accès  direct  ou  à  distance  aux  locaux  et  aux  systèmes  d’information  ou  de  contrôle  de 
+
+l’entité critique, y compris en lien avec sa sécurité;
+
+c) dont le recrutement est envisagé à des postes répondant aux critères énoncés au point a) ou b).
+
+2.
+Les  demandes  visées  au  paragraphe  1  du  présent  article  sont  évaluées  dans  un  délai  raisonnable  et  traitées 
+conformément  au  droit  national  et  aux  procédures  nationales,  ainsi  qu’au  droit  de  l’Union  pertinent  et  applicable,  y 
+compris  le  règlement  (UE)  2016/679  et  la  directive  (UE)  2016/680  du  Parlement  européen  et  du  Conseil (37).  Les 
+vérifications des antécédents sont proportionnées et strictement limitées à ce qui est nécessaire. Elles sont effectuées dans 
+le seul but d’évaluer un risque potentiel pour la sécurité de l’entité critique concernée.
+
+3.
+
+À tout le moins, une vérification des antécédents visée au paragraphe 1:
+
+a) corrobore l’identité de la personne qui fait l’objet d’une demande de vérification des antécédents;
+
+b) vérifie les casiers judiciaires de cette personne en ce qui concerne des infractions qui seraient pertinentes pour un poste 
+
+déterminé;
+
+Lors  de  la  vérification  des  antécédents,  les  États  membres,  recourent  au  système  européen  d’information  sur  les  casiers 
+judiciaires  conformément  aux  procédures  prévues  dans  la  décision-cadre  2009/315/JAI  et,  si  cela  est  pertinent  et 
+applicable, dans le règlement (UE) 2019/816, aux fins de l’obtention des informations issues des casiers judiciaires détenus 
+par d’autres États membres. Les autorités centrales visées à l’article 3, paragraphe 1, de la décision-cadre 2009/315/JAI et à 
+l’article  3,  point  5,  du  règlement  (UE)  2019/816  répondent  aux  demandes  d’informations  dans  un  délai  de  dix  jours 
+ouvrables à compter de la date de réception de la demande conformément à l’article 8, paragraphe 1, de la décision-cadre 
+2009/315/JAI.
+
+(37) Directive  (UE)  2016/680  du  Parlement  européen  et  du  Conseil  du  27  avril  2016  relative  à  la  protection  des  personnes  physiques  à 
+l’égard  du  traitement  des  données  à  caractère  personnel  par  les  autorités  compétentes  à  des  fins  de  prévention  et  de  détection  des 
+infractions  pénales,  d’enquêtes  et  de  poursuites  en  la  matière  ou  d’exécution  de  sanctions  pénales,  et  à  la  libre  circulation  de  ces 
+données, et abrogeant la décision-cadre 2008/977/JAI du Conseil (JO L 119 du 4.5.2016, p. 89).
+
+27.12.2022 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+L  333/185  
+
+Article 15
+
+Notification d’incidents
+
+1.
+Les  États  membres  veillent  à  ce  que  les  entités  critiques  notifient  sans  retard  injustifié  à  l’autorité  compétente  les 
+incidents  qui  perturbent  ou  sont  susceptibles  de  perturber  de  manière  importante la  fourniture  de  services  essentiels.  Les 
+États membres veillent à ce que, sauf à être dans l’incapacité de le faire pour des raisons opérationnelles, les entités critiques 
+présentent une première notification au plus tard 24 heures après avoir pris connaissance d’un incident, suivie, s’il y a lieu, 
+d’un rapport détaillé au plus tard un mois après. Afin de déterminer l’importance de la perturbation, les paramètres suivants 
+sont, en particulier, pris en compte:
+
+a)
+
+le nombre et la proportion d’utilisateurs affectés par la perturbation;
+
+b)
+
+la durée de la perturbation;
+
+c)
+
+la zone géographique concernée par la perturbation, en tenant compte de son éventuel isolement géographique.
+
+Lorsqu’un  incident  a  ou  pourrait  avoir  un  impact  important  sur  la  continuité  de  la  fourniture  de  services  essentiels  à  ou 
+dans six États membres ou plus, les autorités compétentes des États membres affectés par l’incident notifient ledit incident 
+à la Commission.
+
+2.
+Les notifications visées au paragraphe 1, premier alinéa, comprennent toutes les informations disponibles nécessaires 
+pour  permettre  à  l’autorité  compétente  de  comprendre  la  nature,  la  cause  et  les  conséquences  possibles  de  l’incident,  y 
+compris toute information disponible nécessaire pour déterminer tout impact transfrontière de l’incident. Ces notifications 
+n’ont pas pour effet de soumettre les entités critiques à une responsabilité accrue.
+
+3.
+Sur  la  base  des  informations  fournies  par  une  entité  critique  dans  une  notification  visée  au  paragraphe  1,  l’autorité 
+compétente concernée, par l’intermédiaire du point de contact unique, informe le point de contact unique des autres États 
+membres affectés lorsque l’incident a ou pourrait avoir un impact important sur les entités critiques et sur la continuité de 
+la fourniture de services essentiels à ou dans un ou plusieurs autres États membres.
+
+Les  points  de  contact  uniques  qui  envoient  et  reçoivent  des  informations  en  vertu  du  premier  alinéa  traitent  ces 
+informations,  conformément  au  droit  de  l’Union  ou  au  droit  national,  de  manière  à  en  respecter  la  confidentialité  et  à 
+préserver la sécurité et les intérêts commerciaux de l’entité critique concernée.
+
+Dès que possible après la réception d’une notification visée au paragraphe 1, l’autorité compétente concernée fournit 
+4.
+à  l’entité critique  concernée  des  informations  de  suivi  pertinentes, y compris  des  informations  qui  pourraient  aider  ladite 
+entité critique à réagir efficacement à l’incident en question. Les États membres informent le public lorsqu’ils estiment qu’il 
+serait dans l’intérêt général de le faire.
+
+Article 16
+
+Normes
+
+Afin de favoriser la mise en œuvre convergente de la présente directive, les États membres encouragent, lorsque c’est utile et 
+sans  imposer  ni  créer  de  discriminations  en  faveur  de  l’utilisation  d’un  type  particulier  de  technologie,  le  recours  à  des 
+normes  et  des  spécifications  techniques  européennes  et  internationales  pertinentes  pour  les  mesures  de  sécurité  et  les 
+mesures de résilience applicables aux entités critiques.
+
+L  333/186 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+27.12.2022  
+
+CHAPITRE IV
+
+ENTITÉS CRITIQUES D’IMPORTANCE EUROPÉENNE PARTICULIÈRE
+
+Article 17
+
+Recensement des entités critiques d’importance européenne particulière
+
+1.
+
+Une entité est considérée comme une entité critique d’importance européenne particulière lorsqu’elle:
+
+a) a été désignée en tant qu’entité critique conformément à l’article 6, paragraphe 1;
+
+b)
+
+fournit les mêmes services essentiels ou des services essentiels similaires à ou dans six États membres ou plus; et
+
+c) elle a fait l’objet d’une notification conformément au paragraphe 3 du présent article.
+
+2.
+Les  États  membres  veillent  à  ce  qu’une  entité  critique,  à  la  suite  de  la  notification  visée  à  l’article  6,  paragraphe  3, 
+informe son autorité compétente lorsqu’elle  fournit des services essentiels  à ou  dans six États  membres  ou plus. En pareil 
+cas,  les  États  membres  veillent  à  ce  que  l’entité  critique  informe  son  autorité  compétente  au  sujet  des  services  essentiels 
+qu’elle fournit à ou dans ces États membres et au sujet des États membres auxquels ou dans lesquels elle fournit ces services 
+essentiels.  Les  États  membres  notifient  à  la  Commission,  sans  retard  injustifié,  l’identité  de  ces  entités  critiques  et  les 
+informations qu’elles fournissent au titre du présent paragraphe.
+
+La Commission consulte l’autorité compétente de l’État membre qui a déterminé une entité critique visée au premier alinéa, 
+l’autorité compétente des autres États membres concernés et l’entité critique en question. Lors de ces consultations, chaque 
+État membre informe la Commission lorsqu’il estime que les services qui sont fournis audit État membre par l’entité critique 
+sont des services essentiels.
+
+Lorsque  la  Commission  établit,  sur  la  base  des  consultations  visées  au  paragraphe  2  du  présent  article,  que  l’entité 
+3.
+critique concernée fournit des services essentiels à ou dans six États membres ou plus, la Commission notifie à ladite entité 
+critique,  par  l’intermédiaire  de  son  autorité  compétente,  qu’elle  est  considérée  comme  une  entité  critique  d’importance 
+européenne particulière et l’informe des obligations qui lui incombent en vertu du présent chapitre et de la date à partir de 
+laquelle  ces  obligations  lui  sont  applicables.  Une  fois  que  la  Commission  informe  l’autorité compétente  de  sa  décision  de 
+considérer  une  entité  critique  comme  une  entité  critique  d’importance  européenne  particulière,  l’autorité  compétente 
+transmet ladite notification à ladite entité critique sans retard injustifié.
+
+Le présent chapitre s’applique à l’entité critique d’importance européenne particulière concernée à compter de la date 
+
+4.
+de réception de la notification visée au paragraphe 3 du présent article.
+
+Article 18
+
+Missions de conseil
+
+À  la  demande  de  l’État  membre  qui  a  désigné  une  entité  critique  d’importance  européenne  particulière  en  tant 
+1.
+qu’entité  critique  en  vertu  de  l’article  6,  paragraphe  1,  la  Commission  organise  une  mission  de  conseil  afin  d’évaluer  les 
+mesures mises en place par ladite entité pour satisfaire aux obligations qui lui incombent en vertu du chapitre III.
+
+2.
+De  sa  propre  initiative  ou  à  la  demande  d’un  ou  de  plusieurs  États  membres  auxquels  ou  dans  lesquels  le  service 
+essentiel est fourni et à condition que l’État membre qui a désigné une entité critique d’importance européenne particulière 
+en tant qu’entité critique en vertu de l’article 6, paragraphe 1, y consente, la Commission organise une mission de conseil 
+visée au paragraphe 1.
+
+Sur  demande  motivée  de  la  Commission  ou  d’un  ou  de  plusieurs  des  États  membres  auxquels  ou  dans  lesquels  le 
+3.
+service  essentiel  est  fourni,  l’État  membre  qui  a  désigné  une  entité  critique  d’importance  européenne  particulière  en  tant 
+qu’entité critique en vertu de l’article 6, paragraphe 1, communique à la Commission ce qui suit:
+
+a)
+
+les éléments pertinents de l’évaluation des risques d’entité critique;
+
+b) une liste des mesures pertinentes prises conformément à l’article 13;
+
+27.12.2022 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+L  333/187  
+
+c)
+
+toute mesure de supervision ou d’exécution, y compris  des évaluations du respect des obligations qui ont été faites ou 
+des  injonctions  qui  ont été  émises,  prise  par  son  autorité  compétente  en vertu  des  articles  21  et  22  à  l’égard de  ladite 
+entité critique.
+
+4.
+La mission de conseil communique ses conclusions à la Commission, à l’État membre qui a désigné une entité critique 
+d’importance  européenne  particulière  en  tant  qu’entité  critique  en  vertu  de  l’article  6,  paragraphe  1,  aux  États  membres 
+auxquels  ou  dans  lesquels  le  service  essentiel  est  fourni  et  à  l’entité  critique  concernée,  dans  un  délai  de  trois  mois  à 
+compter de la fin de la mission de conseil.
+
+Les  États  membres  auxquels  ou  dans  lesquels  le  service  essentiel  est  fourni  analysent  le  rapport  visé  au  premier  alinéa  et, 
+lorsque  cela  est  nécessaire,  conseillent  la  Commission  quant  à  la  question  du  respect  par  l’entité  critique  d’importance 
+européenne  particulière  concernée  des  obligations  qui  lui  incombent  en  vertu  du  chapitre  III  et,  s’il  y  a  lieu,  quant  aux 
+mesures qui pourraient être prises pour améliorer la résilience de ladite entité critique.
+
+Sur la base des conseils visés au deuxième alinéa du présent paragraphe, la Commission communique à l’État membre qui a 
+désigné une entité critique d’importance européenne particulière en tant qu’entité critique en vertu de l’article 6, paragraphe 
+1, aux États membres auxquels ou dans lesquels le service essentiel est fourni et à ladite entité critique son avis quant à la 
+question  du  respect  par  ladite  entité  critique  des  obligations  qui  lui  incombent  en  vertu  du  chapitre  III  et,  le  cas  échéant, 
+quant aux mesures qui pourraient être prises pour améliorer la résilience de ladite entité critique.
+
+L’État membre qui a désigné une entité critique d’importance européenne particulière en tant qu’entité critique en vertu de 
+l’article 6, paragraphe 1, veille à ce que son autorité compétente et l’entité critique concernée tiennent compte de l’avis visé 
+au troisième alinéa du présent paragraphe, et fournit à la Commission et aux États membres  auxquels ou  dans lesquels  le 
+service essentiel est fourni des informations sur les mesures qu’il a adoptées à la suite de cet avis.
+
+5.
+Chaque mission de conseil est composée d’experts de l’État membre dans lequel se situe l’entité critique d’importance 
+européenne  particulière,  d’experts  des  États  membres  auxquels  ou  dans  lesquels  le  service  essentiel  est  fourni  et  de 
+représentants  de  la  Commission.  Ces  États  membres  peuvent  proposer  des  candidats  à  la  participation  à  une  mission  de 
+conseil.  À  la  suite  d’une  consultation  de  l’État  membre  qui  a  désigné  une  entité  critique  d’importance  européenne 
+particulière  en  tant  qu’entité  critique  en  vertu  de  l’article  6,  paragraphe  1,  la  Commission  sélectionne  et  nomme  les 
+membres  de  chaque  mission  de  conseil  sur  la  base  de  leurs  compétences  professionnelles  et  en  veillant,  lorsque  cela  est 
+possible, à une représentation géographique équilibrée de tous ces États  membres. Chaque fois que cela est nécessaire, les 
+membres  de  la  mission  de  conseil  disposent  d’une  habilitation  de  sécurité en  cours  de  validité et  au  niveau  approprié.  La 
+Commission prend en charge les coûts liés à la participation à des missions de conseil.
+
+La Commission organise le programme de chaque mission de conseil, en concertation avec les membres de la mission de 
+conseil en question et en accord avec l’État membre qui a désigné une entité critique d’importance européenne particulière 
+en tant qu’entité critique en vertu de l’article 6, paragraphe 1.
+
+La  Commission  adopte  un  acte  d’exécution  établissant  les  règles  relatives  aux  modalités  de  procédure  pour  les 
+6.
+demandes d’organisation de missions de conseil, le traitement de ces demandes, la conduite et les rapports des missions de 
+conseil et pour le traitement de la communication de l’avis de la Commission visé au paragraphe 4, troisième alinéa, et des 
+mesures  prises,  en  tenant  dûment  compte  de  la  confidentialité  et  du  caractère  commercial  sensible  des  informations 
+concernées. Cet acte d’exécution est adopté en conformité avec la procédure d’examen visée à l’article 24, paragraphe 2.
+
+7.
+Les États membres veillent à ce que les entités critiques d’importance européenne particulière accordent aux missions 
+de conseil l’accès aux informations, systèmes et installations relatifs à la fourniture de leurs services essentiels nécessaires à 
+l’exécution de la mission de conseil concernée.
+
+8.
+Les missions de conseil sont menées dans le respect du droit national applicable de l’État membre dans lequel elles ont 
+lieu, en respectant la responsabilité de cet État membre en matière de sécurité nationale et la protection de ses intérêts dans 
+le domaine de la sécurité.
+
+L  333/188 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+27.12.2022  
+
+9.
+Lorsqu’elle  organise  des  missions  de  conseil, la  Commission  tient  compte des  rapports de  toute  inspection  qu’elle  a 
+effectuée  en  vertu  des  règlements  (CE)  no  725/2004  et  (CE)  no  300/2008,  ainsi  que  des  rapports  de  tout  suivi  qu’elle  a 
+effectué en vertu de la directive 2005/65/CE à l’égard de l’entité critique concernée.
+
+10.
+La Commission informe le groupe sur la résilience des entités critiques visé à l’article 19 chaque fois qu’une mission 
+de conseil est organisée. L’État membre dans lequel la mission de conseil a été menée et la Commission informent également 
+le  groupe  sur  la  résilience  des  entités  critiques  des  principales  conclusions  de  la  mission  de  conseil  et  des  enseignements 
+tirés en vue de favoriser l’apprentissage mutuel.
+
+CHAPITRE V
+
+COOPÉRATION ET RAPPORTS
+
+Article 19
+
+Groupe sur la résilience des entités critiques
+
+Un groupe sur la résilience des entités critiques est institué. Le groupe sur la résilience des entités critiques soutient la 
+1.
+Commission  et  facilite  la  coopération  entre  les  États  membres  et  l’échange  d’informations  sur  les  questions  relatives  à  la 
+présente directive.
+
+Le groupe sur la résilience des entités critiques est composé de représentants des États membres et de la Commission 
+2.
+qui, s’il y a lieu, disposent d’une habilitation de sécurité. Lorsque cela est pertinent pour l’exécution de ses tâches, le groupe 
+sur  la  résilience  des  entités  critiques  peut  inviter  des  parties  prenantes  concernées  à  participer  à  ses  travaux.  Lorsque  le 
+Parlement européen le demande, la Commission peut inviter des experts du Parlement européen à assister aux réunions du 
+groupe sur la résilience des entités critiques.
+
+Le représentant de la Commission préside le groupe sur la résilience des entités critiques.
+
+3.
+
+Le groupe sur la résilience des entités critiques est chargé des tâches suivantes:
+
+a) soutenir  la  Commission  pour  ce  qui  est  d’aider  les  États  membres  à  renforcer  leur  capacité  à  contribuer  à  garantir  la 
+
+résilience des entités critiques conformément à la présente directive;
+
+b) analyser les stratégies afin de recenser les bonnes pratiques en ce qui concerne les stratégies;
+
+c)
+
+faciliter l’échange de bonnes pratiques concernant le recensement des entités critiques par les États membres en vertu de 
+l’article  6,  paragraphe  1,  y  compris  pour  ce  qui  est  des  dépendances  transfrontières  et  transsectorielles  et  en  ce  qui 
+concerne les risques et incidents;
+
+d) s’il y a lieu, contribuer, sur les questions relatives à la présente directive, aux documents relatifs à la résilience au niveau 
+
+de l’Union;
+
+e) contribuer à  l’élaboration  des  lignes  directrices  visées  à  l’article  7,  paragraphe 3,  et  à  l’article  13,  paragraphe  5,  et, sur 
+
+demande, de tout acte délégué ou de tout acte d’exécution adopté en vertu de la présente directive;
+
+f) analyser les rapports de synthèse visés à l’article 9, paragraphe 3, en vue de promouvoir le partage des bonnes pratiques 
+
+concernant les mesures prises conformément à l’article 15, paragraphe 3;
+
+g) échanger les bonnes pratiques concernant la notification d’incidents visée à l’article 15;
+
+h) examiner  les  rapports  de  synthèse  des  missions  de  conseil  et  les  enseignements  tirés  conformément  à  l’article  18, 
+
+paragraphe 10;
+
+i)
+
+j)
+
+échanger  des  informations  et  les  bonnes  pratiques  en  matière  d’innovation,  de  recherche  et  de  développement 
+concernant la résilience des entités critiques conformément à la présente directive;
+
+s’il y a lieu, procéder à des échanges d’informations sur des questions relatives à la résilience des entités critiques avec les 
+institutions, organes et organismes de l’Union concernés.
+
+4.
+Au  plus  tard  le  17  janvier  2025,  puis  tous  les  deux  ans,  le  groupe  sur  la  résilience  des  entités  critiques  établit  un 
+programme  de  travail  prévoyant  les  actions  à  entreprendre  pour  réaliser  ses  objectifs  et  ses  tâches.  Ce  programme  de 
+travail est cohérent avec les exigences et les objectifs de la présente directive.
+
+27.12.2022 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+L  333/189  
+
+5.
+Le groupe sur la résilience des entités critiques se réunit régulièrement et en tout état de cause au moins une fois par 
+an  avec  le  groupe  de  coopération  institué  en  vertu  de  la  directive  (UE)  2022/2555  afin  de  promouvoir  et  de  faciliter  la 
+coopération et l’échange d’informations.
+
+6.
+La Commission peut adopter des actes d’exécution fixant les modalités de procédure nécessaires au fonctionnement 
+du  groupe  sur  la  résilience  des  entités  critiques,  dans  le  respect  de  l’article  1er,  paragraphe  4.  Ces  actes  d’exécution  sont 
+adoptés en conformité avec la procédure d’examen visée à l’article 24, paragraphe 2.
+
+La  Commission  remet  au  groupe  sur  la  résilience  des  entités  critiques  un  rapport  de  synthèse  concernant  les 
+7.
+informations communiquées par les États membres en vertu de l’article 4, paragraphe 3, et de l’article 5, paragraphe 4, au 
+plus tard le 17 janvier 2027, puis chaque fois que cela est nécessaire et au moins tous les quatre ans.
+
+Article 20
+
+Soutien de la Commission aux autorités compétentes et aux entités critiques
+
+1.
+La  Commission  aide,  s’il  y  a  lieu,  les  États  membres  et  les  entités  critiques  à  respecter  les  obligations  qui  leur 
+incombent en vertu de la présente directive. La Commission élabore une vue d’ensemble, au niveau de l’Union, des risques 
+transfrontières  et  transsectoriels  pesant  sur  la  fourniture  de  services  essentiels,  organise  les  missions  de  conseil  visées  à 
+l’article  13,  paragraphe  4,  et  à  l’article  18,  et  facilite  l’échange  d’informations  entre  États  membres  et  experts  dans 
+l’ensemble de l’Union.
+
+2.
+La Commission complète les activités des États membres visées à l’article 10 en élaborant des bonnes pratiques, des 
+documents  d’orientation  et  des  méthodes,  et  des  activités  de  formation  et  des  exercices  transfrontières  pour  tester  la 
+résilience des entités critiques.
+
+La  Commission  informe  les  États  membres  des  ressources  financières  à  leur  disposition  au  niveau  de  l’Union  pour 
+
+3.
+renforcer la résilience des entités critiques.
+
+CHAPITRE VI
+
+SUPERVISION ET EXÉCUTION
+
+Article 21
+
+Supervision et exécution
+
+1.
+Afin d’évaluer le respect des obligations découlant de la présente directive par les entités qu’ils ont recensées en tant 
+qu’entités  critiques  en  vertu  de  l’article  6,  paragraphe  1,  de  la  présente  directive,  les  États  membres  veillent  à  ce  que  les 
+autorités compétentes disposent des pouvoirs et des moyens nécessaires pour:
+
+a) procéder à des inspections sur place de l’infrastructure critique et des locaux utilisés par l’entité critique pour fournir ses 
+services essentiels et à la supervision à distance des mesures prises par les entités critiques conformément à l’article 13;
+
+b) effectuer ou ordonner des audits portant sur ces entités critiques.
+
+2.
+Les États membres veillent à ce que les autorités compétentes disposent des pouvoirs et des moyens pour exiger que, 
+lorsque  l’exécution  des  tâches  qui  leur  incombent  en  vertu  de  la  présente  directive  le  requiert,  les  entités  en  vertu  de  la 
+directive (UE) 2022/2555 que les États membres ont recensées en tant qu’entités critiques en vertu de la présente directive 
+fournissent, dans un délai raisonnable fixé par ces autorités:
+
+a)
+
+b)
+
+les informations nécessaires pour évaluer si les mesures prises par ces entités pour garantir leur résilience satisfont aux 
+exigences énoncées à l’article 13;
+
+la  preuve  de  la  mise  en  œuvre  effective  de  ces  mesures,  y  compris  les  résultats  d’un  audit  effectué  par  un  auditeur 
+indépendant et qualifié sélectionné par ladite entité et effectué à ses frais.
+
+Lorsqu’elles  requièrent  ces  informations,  les  autorités  compétentes  mentionnent  la  finalité  de  la  demande  et  précisent  les 
+informations exigées.
+
+L  333/190 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+27.12.2022  
+
+3.
+Sans  préjudice  de  la  possibilité  d’imposer  des  sanctions  conformément  à  l’article  22,  les  autorités  compétentes 
+peuvent, à la suite des mesures de supervision visées au paragraphe 1 du présent article ou de l’évaluation des informations 
+visées au paragraphe 2 du présent article, enjoindre aux entités critiques concernées de prendre les mesures nécessaires et 
+proportionnées  pour  remédier  à  toute  violation  constatée  de  la  présente  directive,  dans  un  délai  raisonnable  fixé  par 
+lesdites autorités, et de leur fournir des informations sur les mesures prises. Ces injonctions tiennent compte, notamment, 
+de la gravité de la violation.
+
+4.
+Les États membres veillent à ce que les pouvoirs prévus aux paragraphes 1, 2 et 3 ne puissent être exercés que sous 
+réserve  de  garanties  appropriées.  Ces  garanties  font  en  sorte,  en  particulier,  que  les  pouvoirs  soient  exercés  de  manière 
+objective, transparente et proportionnée et que les droits et les intérêts légitimes des entités critiques concernées, tels que la 
+protection  des  secrets  commerciaux  et  d’affaires,  soient  dûment  préservés,  ce  qui  comprend  le  droit  d’être  entendu,  les 
+droits de la défense et le droit à un recours effectif devant une juridiction indépendante.
+
+5.
+Les États membres veillent à ce que, lorsqu’une autorité compétente en vertu de la présente directive évalue le respect 
+par  une  entité  critique  de  ses  obligations  en  vertu  du  présent  article,  ladite  autorité  compétente  en  informe  les  autorités 
+compétentes des États membres concernés en vertu de la directive (UE) 2022/2555 À cette fin, les États membres veillent à 
+ce que les autorités compétentes en vertu de la présente directive puissent demander aux autorités compétentes en vertu de 
+la directive (UE) 2022/2555 d’exercer leurs pouvoirs de supervision et d’exécution à l’égard d’une entité relevant de ladite 
+directive qui a été désignée en tant qu’entité critique en vertu de la présente directive. À cette fin, les États membres veillent 
+à  ce  que  les  autorités  compétentes  en  vertu  de  la  présente  directive  coopèrent  et  échangent  des  informations  avec  les 
+autorités compétentes en vertu de la directive (UE) 2022/2555
+
+Article 22
+
+Sanctions
+
+Les  États  membres  déterminent  le  régime  des  sanctions  applicables  aux  violations  des  dispositions  nationales  adoptées 
+conformément  à  la  présente  directive  et  prennent  toutes  les  mesures  nécessaires  pour  assurer  la  mise  en  œuvre  de  ces 
+sanctions.  Ces  sanctions  doivent  être  effectives,  proportionnées  et  dissuasives.  Les  États  membres  informent  la 
+Commission,  au  plus  tard  le  17  octobre  2024 du  régime  ainsi  déterminé  et  des  mesures  ainsi  prises,  de  même  que,  sans 
+retard, de toute modification apportée ultérieurement à ce régime ou à ces mesures.
+
+CHAPITRE VII
+
+ACTES DÉLÉGUÉS ET ACTES D’EXÉCUTION
+
+Article 23
+
+Exercice de la délégation
+
+1.
+
+Le pouvoir d’adopter des actes délégués conféré à la Commission est soumis aux conditions fixées au présent article.
+
+Le pouvoir d’adopter des actes délégués visé à l’article 5, paragraphe 1, est conféré à la Commission pour une période 
+
+2.
+de cinq ans à compter du 16 janvier 2023.
+
+3.
+La  délégation  de  pouvoir  visée  à  l’article  5,  paragraphe  1,  peut  être  révoquée  à  tout  moment  par  le  Parlement 
+européen ou le Conseil. La décision de révocation met fin à la délégation de pouvoir qui y est précisée. La révocation prend 
+effet le jour suivant celui de la publication de ladite décision au Journal officiel de l’Union européenne ou à une date ultérieure 
+qui est précisée dans ladite décision. Elle ne porte pas atteinte à la validité des actes délégués déjà en vigueur.
+
+Avant  l’adoption  d’un  acte  délégué,  la  Commission  consulte  les  experts  désignés  par  chaque  État  membre, 
+
+4.
+conformément aux principes définis dans l’accord interinstitutionnel du 13 avril 2016 «Mieux légiférer».
+
+5.
+
+Aussitôt qu’elle adopte un acte délégué, la Commission le notifie au Parlement européen et au Conseil simultanément.
+
+27.12.2022 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+L  333/191  
+
+6.
+Un  acte  délégué  adopté  en  vertu  de  l’article  5,  paragraphe  1,  n’entre  en  vigueur  que  si  le  Parlement  européen  ou  le 
+Conseil  n’a  pas  exprimé  d’objections  dans  un  délai  de  deux  mois  à  compter  de  la  notification  de  cet  acte  au  Parlement 
+européen  et  au  Conseil  ou  si,  avant  l’expiration  de  ce  délai,  le  Parlement  européen  et  le  Conseil  ont  tous  deux  informé  la 
+Commission  de  leur  intention  de  ne  pas  exprimer  d’objections.  Ce  délai  est  prolongé  de  deux  mois  à  l’initiative  du 
+Parlement européen ou du Conseil.
+
+Article 24
+
+Comité
+
+1.
+
+2.
+
+La Commission est assistée par un comité. Ledit comité est un comité au sens du règlement (UE) no  182/2011.
+
+Lorsqu’il est fait référence au présent paragraphe, l’article 5 du règlement (UE) no  182/2011 s’applique.
+
+CHAPITRE VIII
+
+DISPOSITIONS FINALES
+
+Article 25
+
+Rapports et réexamen
+
+Au plus tard le 17 juillet 2027, la Commission présente au Parlement européen et au Conseil un rapport évaluant la mesure 
+dans laquelle chaque État membre a pris les dispositions nécessaires pour se conformer à la présente directive.
+
+La Commission réexamine périodiquement le fonctionnement de la présente directive et fait rapport au Parlement européen 
+et  au  Conseil.  Ce  rapport  évalue  en  particulier  la  valeur  ajoutée  de  la  présente  directive,  son  impact en  vue  de  garantir  la 
+résilience  des  entités  critiques  et  détermine  si  l’annexe  de  la  présente  directive  devrait  être  modifiée.  La  Commission 
+présente  le  premier  rapport  de  ce  type  au  plus  tard  le  17  juin  2029.  Aux  fins  de  l’établissement  des  rapports  au  titre  du 
+présent article, la Commission tient compte des documents pertinents du groupe sur la résilience des entités critiques.
+
+Article 26
+
+Transposition
+
+Les  États  membres  adoptent  et  publient,  au  plus  tard  le  17  octobre  2024,  les  dispositions  nécessaires  pour  se 
+
+1.
+conformer à la présente directive. Ils en informent immédiatement la Commission.
+
+Ils appliquent ces dispositions à partir du 18 octobre 2024.
+
+2.
+Lorsque les États membres adoptent les dispositions visées au paragraphe 1, celles-ci contiennent une référence à la 
+présente  directive  ou  sont  accompagnées  d’une  telle  référence  lors  de  leur  publication  officielle.  Les  modalités  de  cette 
+référence sont arrêtées par les États membres.
+
+Article 27
+
+Abrogation de la directive 2008/114/CE
+
+La directive 2008/114/CE est abrogée avec effet au 18 octobre 2024.
+
+Les références faites à la directive abrogée s’entendent comme faites à la présente directive.
+
+L  333/192 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+27.12.2022  
+
+La présente directive entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.
+
+Article 28
+
+Entrée en vigueur
+
+Article 29
+
+Destinataires
+
+Les États membres sont destinataires de la présente directive.
+
+Fait à Strasbourg, le 14 décembre 2022.
+
+Par le Parlement européen
+La présidente
+R. METSOLA
+
+Par le Conseil
+Le président
+M. BEK
+
+27.12.2022 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+L  333/193  
+
+ANNEXE 
+
+SECTEURS, SOUS-SECTEURS ET CATÉGORIES D’ENTITÉS 
+
+Secteurs
+
+Sous-secteurs
+
+Catégories  d’entités
+
+1.
+
+Énergie
+
+a)
+
+Électricité
+
+—  Entreprises  d’électricité  au  sens  de  l’article  2, 
+point 57), de la directive (UE) 2019/944 du Par­
+lement européen et du Conseil (1), qui assurent la 
+fonction  de  «fourniture»  au  sens  de  l’article  2, 
+point 12), de ladite directive
+
+—  Gestionnaires  de  réseau  de  distribution  au  sens 
+de  l’article  2,  point  29),  de  la  directive  (UE) 
+2019/944
+
+—  Gestionnaires de réseau de transport au sens de 
+la  directive  (UE) 
+
+l’article  2,  point  35),  de 
+2019/944
+
+—  Producteurs au sens de l’article 2, point 38), de la 
+
+directive (UE) 2019/944
+
+—  Opérateurs désignés du marché de l’électricité au 
+sens  de  l’article  2,  point  8),  du  règlement  (UE) 
+2019/943  du  Parlement  européen  et  du 
+Conseil (2)
+
+—  Acteurs  du  marché  au  sens  de  l’article  2,  point 
+25),  du  règlement  (UE)  2019/943,  qui  fournis­
+sent  des  services  d’agrégation,  de  participation 
+active  de  la  demande  ou  de  stockage  d’énergie 
+au  sens  de  l’article  2,  points  18),  20)  et  59),  de 
+la directive (UE) 2019/944
+
+b)
+
+Réseaux  de  chaleur  et  de 
+froid
+
+—  Opérateurs de réseaux de chaleur ou de réseaux 
+de  froid  au  sens  de  l’article  2,  point  19),  de  la 
+directive  (UE)  2018/2001  du  Parlement  euro­
+péen et du Conseil (3)
+
+c)
+
+Pétrole
+
+—  Exploitants d’oléoducs
+
+— Exploitants d’installations de production, de raf­
+finage, de traitement, de stockage et de transport 
+de pétrole
+
+—  Entités centrales de stockage au sens de l’article 2, 
+la  directive  2009/119/CE  du 
+
+point  f),  de 
+Conseil (4)
+
+L  333/194 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+27.12.2022  
+
+Secteurs
+
+Sous-secteurs
+
+Catégories  d’entités
+
+d) Gaz
+
+—  Entreprises  de  fourniture  au  sens  de  l’article  2, 
+point  8),  de  la  directive  2009/73/CE  du  Parle­
+ment européen et du Conseil (5)
+
+—  Gestionnaires  de  réseau  de  distribution  au  sens 
+de l’article 2, point 6), de la directive 2009/73/CE
+
+—  Gestionnaires de réseau de transport au sens de 
+l’article 2, point 4), de la directive 2009/73/CE
+
+—  Gestionnaires  d’installation  de stockage au  sens 
+la  directive 
+
+l’article  2,  point  10),  de 
+
+de 
+2009/73/CE
+
+—  Gestionnaires  d’installation  de  GNL  au  sens  de 
+l’article 2, point 12), de la directive 2009/73/CE
+
+—  Entreprises de gaz naturel au sens de l’article 2, 
+
+point 1), de la directive 2009/73/CE
+
+— Exploitants d’installations de raffinage et de trai­
+
+tement de gaz naturel
+
+e) Hydrogène
+
+— Exploitants de systèmes de production, de stoc­
+
+kage et de transport d’hydrogène
+
+2.
+
+Transports
+
+a)
+
+Transports aériens
+
+—  Transporteurs aériens au sens de l’article 3, point 
+4), du règlement (CE) no  300/2008 utilisés à des 
+fins commerciales
+
+— Entités gestionnaires d’aéroports au sens de l’ar­
+ticle  2,  point  2),  de  la  directive  2009/12/CE  du 
+Parlement européen et du Conseil (6), aéroports 
+au sens de l’article 2, point 1), de ladite directive, 
+y compris les aéroports du réseau central énumé­
+rés  à  l’annexe  II,  section  2,  du  règlement  (UE) 
+no  1315/2013  du  Parlement  européen  et  du 
+Conseil (7),  et  entités  exploitant  les  installations 
+annexes se trouvant dans les aéroports
+
+—  Services  du  contrôle  de  la  circulation  aérienne 
+assurant les services du contrôle de la circulation 
+aérienne au sens de l’article 2, point 1), du règle­
+ment (CE) n° 549/2004 du Parlement européen 
+et du Conseil (8)
+
+27.12.2022 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+L  333/195  
+
+Secteurs
+
+Sous-secteurs
+
+Catégories  d’entités
+
+b)
+
+Transports ferroviaires
+
+— Gestionnaires de l’infrastructure au sens de l’arti­
+cle  3,  point  2),  de  la  directive  2012/34/UE  du 
+Parlement européen et du Conseil (9)
+
+c)
+
+Transports par eau
+
+d)
+
+Transports routiers
+
+—  Entreprises  ferroviaires  au  sens  de  l’article  3, 
+point  1),  de  la  directive  2012/34/UE  et  exploi­
+tants d’installations de services au sens de l’arti­
+cle 3, point 12), de ladite directive
+
+—  Sociétés  de  transport  par  voie  d’eau  intérieure, 
+maritime  et  côtier  de  passagers  et  de  fret  telles 
+qu’elles sont définies pour le domaine du trans­
+port maritime visé à l’annexe I du règlement (CE) 
+no 725/2004, à l’exclusion des navires exploités à 
+titre individuel par ces sociétés
+
+— Entités gestionnaires  des ports au sens de l’arti­
+cle  3,  point  1),  de  la  directive  2005/65/CE,  y 
+compris  les  installations  portuaires  au  sens  de 
+l’article  2,  point  11),  du  règlement 
+(CE) 
+no  725/2004,  ainsi  que  les  entités  exploitant 
+des  ateliers  et  des  équipements  à  l’intérieur  des 
+ports
+
+—  Exploitants de services de trafic maritime (STM) 
+au  sens  de  l’article  3,  point  o),  de  la  directive 
+2002/59/CE  du  Parlement  européen  et  du 
+Conseil (10)
+
+—  Autorités  routières  au  sens  de  l’article  2,  point 
+12), du règlement délégué (UE) 2015/962 de la 
+Commission (11) chargées du contrôle de la ges­
+tion  de  la  circulation,  à  l’exclusion  des  entités 
+publiques pour lesquelles la gestion de la circu­
+lation ou l’exploitation des systèmes de transport 
+intelligents constituent une partie non essentielle 
+de leur activité générale
+
+—  Exploitants de systèmes de transport intelligents 
+au  sens  de  l’article  4,  point  1),  de  la  directive 
+2010/40/UE  du  Parlement  européen  et  du 
+Conseil (12)
+
+3.
+
+Secteur bancaire
+
+4.
+
+Infrastructures  des  marchés 
+financiers
+
+e)
+
+Transports publics
+
+— Opérateurs de services publics au sens de l’arti­
+cle 2, point d), du règlement (CE) no  1370/2007 
+du Parlement européen et du Conseil (13)
+
+—  Établissements  de  crédit  au  sens  de  l’article  4, 
+
+point 1), du règlement (UE) no  575/2013
+
+—  Exploitants  de  plates-formes  de  négociation  au 
+sens  de  l’article  4,  point  24),  de  la  directive 
+2014/65/UE
+
+—  Contreparties  centrales  au  sens  de  l’article  2, 
+
+point 1), du règlement (UE) no  648/2012
+
+L  333/196 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+27.12.2022  
+
+Secteurs
+
+Sous-secteurs
+
+Catégories  d’entités
+
+5.
+
+Santé
+
+6.
+
+Eau potable
+
+7.
+
+Eaux résiduaires
+
+—  Prestataires de soins de santé au sens de l’article 3, 
+point  g),  de  la  directive  2011/24/UE  du  Parle­
+ment européen et du Conseil (14)
+
+— Laboratoires  de  référence  de  l’UE  visés  à  l’arti­
+cle  15  du  règlement  (UE)  2022/2371  du  Parle­
+ment européen et du Conseil (15)
+
+—  Entités exerçant  des  activités de recherche et de 
+développement  dans  le  domaine  des  médica­
+ments au sens de l’article 1er, point 2), de la direc­
+tive  2001/83/CE  du  Parlement  européen  et  du 
+Conseil (16)
+
+—  Entités fabriquant des produits pharmaceutiques 
+de base et des préparations pharmaceutiques au 
+sens de la NACE Rév. 2, section C, division 21
+
+—  Entités  fabriquant  des  dispositifs  médicaux 
+considérés comme critiques en cas d’urgence de 
+santé publique (liste des dispositifs médicaux cri­
+tiques en cas d’urgence de santé publique) au sens 
+de  l’article  22  du  règlement  (UE)  2022/123  du 
+Parlement européen et du Conseil (17)
+
+— Entités  titulaires  d’une  autorisation  de  distribu­
+tion  au  sens  de  l’article  79  de  la  directive 
+2001/83/CE
+
+—  Fournisseurs et distributeurs d’eaux destinées à la 
+consommation  humaine  au  sens  de  l’article  2, 
+point  1)  a),  de  la  directive  (UE)  2020/2184  du 
+Parlement européen et du Conseil (18), à l’exclu­
+sion  des  distributeurs  pour  lesquels  la  distribu­
+la  consommation 
+tion  d’eaux  destinées  à 
+humaine constitue une partie non essentielle de 
+leur activité générale de distribution d’autres pro­
+duits et biens
+
+—  Entreprises  collectant,  évacuant  ou  traitant  les 
+eaux  urbaines  résiduaires,  des  eaux  ménagères 
+usées ou des eaux industrielles usées au sens de 
+l’article  2,  points  1),  2)  et  3),  de  la  directive 
+91/271/CEE  du  Conseil (19),  à  l’exclusion  des 
+entreprises  pour  lesquelles  la  collecte,  l’évacua­
+tion ou le traitement des eaux urbaines résiduai­
+res, des eaux ménagères usées ou des eaux indus­
+trielles  usées  constituent  une  partie  non 
+essentielle de leur activité générale
+
+27.12.2022 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+L  333/197  
+
+Secteurs
+
+Sous-secteurs
+
+Catégories  d’entités
+
+8.
+
+Infrastructures numériques
+
+9. Administration publique
+
+10.
+
+Espace
+
+—  Fournisseurs de points d’échange internet au sens 
+de l’article 6, point 18), de la directive (UE) 2022/ 
+2555
+
+— Fournisseurs  de  services  DNS  au  sens  de  l’arti­
+cle  6,  point  20),  de  la  directive  (UE)  2022/ 
+2555,  à  l’exclusion  des  opérateurs  de  serveurs 
+racines de noms de domaines
+
+—  Registres  de  noms  de  domaines  de  premier 
+niveau au sens de l’article 6, point 21), de la direc­
+tive (UE) 2022/2555
+
+—  Fournisseurs de services d’informatique en nuage 
+au  sens  de  l’article  6,  point  30),  de  la  directive 
+(UE) 2022/2555
+
+—  Fournisseurs de services de centre de données au 
+sens de l’article 6, point 31), de la directive (UE) 
+2022/2555
+
+—  Fournisseurs de réseaux de diffusion de contenu 
+au  sens  de  l’article  6,  point  32),  de  la  directive 
+(UE) 2022/2555
+
+—  Prestataires  de  services  de  confiance  au  sens  de 
+l’article  3,  point  19),  du  règlement 
+(UE) 
+no  910/2014  du  Parlement  européen  et  du 
+Conseil (20)
+
+—  Fournisseurs  de  réseaux  de  communications 
+électroniques  publics  au  sens  de  l’article  2, 
+point 8), de la directive (UE) 2018/1972 du Par­
+lement européen et du Conseil (21)
+
+—  Fournisseurs  de  services  de  communications 
+électroniques  au  sens  de l’article  2,  point 4),  de 
+la  directive  (UE)  2018/1972  dans  la  mesure  où 
+leurs services sont accessibles au public
+
+—  Entités de l’administration publique des pouvoirs 
+publics  centraux  définies  comme  telles  par  un 
+État membre conformément au droit national
+
+—  Exploitants  d’infrastructures  au  sol,  détenues, 
+gérées  et  exploitées  par  des  États  membres  ou 
+par des parties privées, qui soutiennent la fourni­
+ture de services spatiaux, à l’exclusion des four­
+nisseurs de réseaux de communications électro­
+niques publics au sens de l’article 2, point 8), de la 
+directive (UE) 2018/1972
+
+L  333/198 
+
+FR
+
+Journal  officiel  de  l’Union  européenne 
+
+27.12.2022  
+
+Secteurs
+
+Sous-secteurs
+
+Catégories  d’entités
+
+11.
+
+transforma­
+Production, 
+tion et distribution de den­
+rées alimentaires
+
+— Entreprises du secteur alimentaire au sens de l’ar­
+ticle 3, point 2), du règlement (CE) no  178/2002 
+du Parlement européen et du Conseil (22) qui exer­
+cent exclusivement des activités de logistique et 
+de distribution en gros ainsi que de production et 
+de transformation industrielles à grande échelle
+
+(1) Directive  (UE)  2019/944  du  Parlement  européen  et  du  Conseil  du  5  juin  2019 concernant  des  règles  communes  pour  le  marché 
+
+intérieur de l’électricité et modifiant la directive 2012/27/UE (JO L 158 du 14.6.2019, p. 125).
+
+(2) Règlement  (UE)  2019/943  du  Parlement européen  et  du  Conseil  du  5  juin  2019 sur  le  marché  intérieur  de  l’électricité  (JO  L  158  du 
+
+14.6.2019, p. 54).
+
+(3) Directive  (UE)  2018/2001  du  Parlement  européen  et  du  Conseil  du  11  décembre  2018 relative  à  la  promotion  de  l’utilisation  de 
+
+l’énergie produite à partir de sources renouvelables (JO L 328 du 21.12.2018, p. 82).
+
+(4) Directive  2009/119/CE  du  Conseil  du  14  septembre  2009 faisant obligation  aux  États  membres  de  maintenir  un  niveau  minimal  de 
+
+stocks de pétrole brut et/ou de produits pétroliers (JO L 265 du 9.10.2009, p. 9).
+
+(5) Directive  2009/73/CE  du  Parlement  européen  et  du  Conseil  du  13  juillet  2009 concernant  des  règles  communes  pour  le  marché 
+
+intérieur du gaz naturel et abrogeant la directive 2003/55/CE (JO L 211 du 14.8.2009, p. 94).
+
+(6) Directive 2009/12/CE du Parlement européen et du Conseil du 11 mars 2009 sur les redevances aéroportuaires (JO L 70 du 14.3.2009, 
+
+p. 11).
+
+(7) Règlement  (UE)  no  1315/2013  du  Parlement  européen  et  du  Conseil  du  11  décembre  2013 sur  les  orientations  de  l’Union  pour  le 
+
+développement du réseau transeuropéen de transport et abrogeant la décision no  661/2010/UE (JO L 348 du 20.12.2013, p. 1).
+
+(8) Règlement (CE) no  549/2004 du Parlement européen et du Conseil du 10 mars 2004 fixant le cadre pour la réalisation du ciel unique 
+
+européen («règlement-cadre») (JO L 96 du 31.3.2004, p. 1).
+
+(9) Directive 2012/34/UE du Parlement européen et du Conseil du 21 novembre 2012 établissant un espace ferroviaire unique européen 
+
+(JO L 343 du 14.12.2012, p. 32).
+
+(10) Directive 2002/59/CE du Parlement européen et du Conseil du 27 juin 2002 relative à la mise en place d’un système communautaire de 
+
+suivi du trafic des navires et d’information, et abrogeant la directive 93/75/CEE du Conseil (JO L 208 du 5.8.2002, p. 10).
+
+(11) Règlement  délégué  (UE)  2015/962  de  la  Commission  du  18  décembre  2014 complétant  la  directive  2010/40/UE  du  Parlement 
+européen et du Conseil en ce qui concerne la mise à disposition, dans l’ensemble de l’Union, de services d’informations en temps réel 
+sur la circulation (JO L 157 du 23.6.2015, p. 21).
+
+(12) Directive 2010/40/UE du Parlement européen et du Conseil du 7 juillet 2010 concernant le cadre pour le déploiement de systèmes de 
+transport  intelligents  dans  le  domaine  du  transport  routier  et  d’interfaces  avec  d’autres  modes  de  transport  (JO  L  207  du  6.8.2010, 
+p. 1).
+
+(13) Règlement  (CE)  no  1370/2007  du  Parlement européen  et  du  Conseil  du  23  octobre  2007 relatif  aux  services  publics  de  transport  de 
+voyageurs par chemin de fer et par  route, et abrogeant les règlements (CEE) no  1191/69 et (CEE) no  1107/70 du Conseil (JO L 315 du 
+3.12.2007, p. 1).
+
+(14) Directive 2011/24/UE du Parlement européen et du Conseil du 9 mars 2011 relative à l’application des droits des patients en matière de 
+
+soins de santé transfrontaliers (JO L 88 du 4.4.2011, p. 45).
+
+(15) Règlement (UE) 2022/2371 du Parlement européen et du Conseil du 23 novembre 2022 concernant les menaces transfrontières graves 
+
+pour la santé et abrogeant la décision no  1082/2013/UE (JO L 314 du 6.12.2022, p. 26).
+
+(16) Directive  2001/83/CE  du  Parlement  européen  et  du  Conseil  du  6  novembre  2001 instituant  un  code  communautaire  relatif  aux 
+
+médicaments à usage humain (JO L 311 du 28.11.2001, p. 67).
+
+(17) Règlement (UE) 2022/123 du Parlement européen et du Conseil du 25 janvier 2022 relatif à un rôle renforcé de l’Agence européenne 
+des médicaments dans la préparation aux crises et la gestion de celles-ci en ce qui concerne les médicaments et les dispositifs médicaux 
+(JO L 20 du 31.1.2022, p. 1).
+
+(18) Directive  (UE)  2020/2184  du  Parlement  européen  et  du  Conseil  du  16  décembre  2020 relative  à  la  qualité  des  eaux  destinées  à  la 
+
+consommation humaine (JO L 435 du 23.12.2020, p. 1).
+
+(19) Directive 91/271/CEE du Conseil du 21 mai 1991 relative au traitement des eaux urbaines résiduaires (JO L 135 du 30.5.1991, p. 40).
+(20) Règlement (UE) no  910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de 
+confiance  pour  les  transactions  électroniques  au  sein  du  marché  intérieur  et  abrogeant  la  directive  1999/93/CE  (JO  L  257  du 
+28.8.2014, p. 73).
+
+(21) Directive  (UE)  2018/1972  du  Parlement  européen  et  du  Conseil  du  11  décembre  2018 établissant  le  code  des  communications 
+
+électroniques européen (JO L 321 du 17.12.2018, p. 36).
+
+(22) Règlement  (CE)  no  178/2002  du  Parlement  européen  et  du  Conseil  du  28  janvier  2002 établissant  les  principes  généraux  et  les 
+prescriptions générales de la  législation  alimentaire,  instituant  l’Autorité européenne  de  sécurité  des aliments  et fixant  des  procédures 
+relatives à la sécurité des denrées alimentaires (JO L 31 du 1.2.2002, p. 1).
+
+

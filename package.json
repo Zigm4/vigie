@@ -1,0 +1,22 @@
+{
+  "name": "vigie",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "description": "Vigie, compagnon de révision du cadre réglementaire cyber français et européen (DR/II901, LPM/SAIV, NIS2, ...). Contenu pédagogique non officiel, tiré des textes publics.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "check": "tsc --noEmit && node scripts/check-content.ts",
+    "check:content": "node scripts/check-content.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "vite": "^6.0.5",
+    "vite-plugin-pwa": "^0.21.1"
+  },
+  "dependencies": {
+    "marked": "^14.1.4"
+  }
+}

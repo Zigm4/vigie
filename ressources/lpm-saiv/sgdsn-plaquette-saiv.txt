@@ -1,0 +1,389 @@
+LA SÉCURITÉ 
+DES ACTIVITÉS D’IMPORTANCE VITALE
+
+Objectifs et enjeux
+
+Qu’est-ce qu’une activité d’importance 
+vitale ? 
+
+Quels  sont  les  points  d’importance  vitale 
+(PIV) ?
+
+Parce  qu’elles  concourent  à  la  production  et  à  la  distri-
+bution de biens ou de services indispensables à l’exercice 
+de l’autorité de l’Etat, au fonctionnement de l’économie, 
+au  maintien  du  potentiel  de  défense  ou  à  la  sécurité  de 
+la  Nation,  certaines  activités  sont  considérées  comme 
+« d’importance vitale ».
+
+Ces activités sont, par nature,  difficilement substituables 
+ou remplaçables. 
+
+Les  points  d’importance  vitale  sont  des  établissements, 
+ouvrages ou installations qui fournissent les services et 
+les biens indispensables à la vie de la Nation. 
+
+Ce sont les opérateurs eux-mêmes qui proposent la liste 
+de leurs points d’importance vitale qui peuvent être, par 
+exemple, des sites de production, des centres de contrôle, 
+des  nœuds  de  réseau,  des  centres  informatiques,  etc.
+
+Comment sont choisis les opérateurs 
+d’importance vitale (OIV) ?
+
+Qu’est-ce que la politique de sécurité des 
+activités d’importance vitale (SAIV) ?
+
+Les opérateurs d’importance vitale sont désignés par le 
+ministre  coordonnateur  du  secteur  qui  les  sélectionne 
+parmi  ceux  qui  exploitent  ou  utilisent  des  installations 
+indispensables à la vie de la Nation. Les critères de choix 
+et  les  objectifs  de  sécurité  recherchés  sont  fixés  par  le 
+ministère coordonnateur. 
+
+La  procédure  repose,  d’une  part,  sur  une  consultation 
+des  opérateurs  pressentis,  et  d’autre  part,  sur  une  con-
+certation  interministérielle  permettant  une  protection 
+équivalente  entre  les  secteurs  d’activités.  Le  choix 
+des  OIV  tient  compte  des  éventuelles  distorsions  de 
+concurrence et vise à éviter les charges indues.
+
+Conçu  et  piloté  par  le  secrétariat  général  de  la  défense 
+et  de  la  sécurité  nationale  (SGDSN),  le  dispositif  de 
+sécurité  des  activités  d’importance  vitale 
+(SAIV) 
+constitue  le  cadre  permettant  d’associer  les  opéra-
+teurs  d’importance  vitale  (OIV),  publics  ou  privés,  à  la 
+mise  en  œuvre  de  la  stratégie  de  sécurité  nationale  en 
+termes  de  protection  contre  les  actes  de  malveillance 
+(terrorisme,  sabotage)  et  les  risques  naturels,  tech-
+nologiques et sanitaires. 
+
+Placés au cœur du dispositif, les opérateurs d’importance 
+vitale  doivent  analyser  les  risques  auxquels  ils  sont  ex-
+posés  et  appliquer  les  mesures  de  protection  qui  leur 
+incombent,  notamment  en  mettant  en  œuvre  le  plan 
+VIGIPIRATE. 
+
+Le  Livre  blanc  de  2013  sur  la  défense  et  la  sécurité
+nationale 
+comme  un 
+élément  du  renforcement  de  la  résilience  de  la  Nation.
+
+cette  politique 
+
+consacre 
+
+12 secteurs d’activités d’importance vitale répartis en 4 dominantes
+
+Alimentation
+Gestion de l’eau
+Santé
+
+Activités civiles de l’Etat
+Activités judiciaires
+Activités militaires
+de l’Etat
+
+Energie
+Finances
+Transports
+
+I
+
+E
+N
+A
+M
+U
+H
+
+E
+N
+N
+E
+I
+L
+A
+G
+E
+R
+
+I
+
+E
+U
+Q
+M
+O
+N
+O
+C
+E
+
+I
+
+L
+
+E
+U
+Q
+G
+O
+O
+N
+H
+C
+E
+T
+
+Communications électroniques,
+audiovisuel et information
+Industrie
+Espace et recherche
+
+Acteurs et responsabilités
+
+Premier ministre / SGDSN
+
+Le secrétariat général de la défense et de la 
+sécurité nationale assure, par délégation du 
+Premier ministre, le pilotage et la coordina-
+tion interministérielle du dispositif. Il fixe le 
+cadre de la politique SAIV, notamment en ce 
+qui concerne la méthode et la doctrine. 
+
+Il  approuve  les  directives  nationales  de 
+sécurité (DNS). Il fixe par ailleurs des règles 
+de cybersécurité devant être appliquées par 
+les OIV.
+
+Ministres coordonnateurs
+Les ministères coordonnateurs sont chargés 
+de  rédiger  les  DNS  de  chaque  secteur  (et 
+d’importance 
+sous-secteur) 
+d’activités 
+vitale  en 
+les 
+vulnérabilités, 
+les  menaces  qui  doivent 
+être  prises  en  compte  et  en  définissant  les 
+objectifs de sécurité du secteur.
+
+les  enjeux, 
+
+indiquant 
+
+Les  ministères 
+sont 
+également les points de contacts privilégiés 
+des opérateurs. 
+
+coordonnateurs 
+
+Ministère de l’intérieur
+
+Le  ministère  de  l’intérieur  est  en  charge 
+de 
+l’animation  territoriale  du  disposi-
+tif  pour  soutenir  l’action  des  préfets  de 
+zone  et  des  préfets  de  département.
+
+Préfet de zone de défense
+et de sécurité
+
+Le  préfet  de  zone  est  l’acteur  territorial  en 
+charge de la coordination du dispositif SAIV. 
+
+Il a un rôle d’animation, d’appui aux préfec-
+tures et de relais d’information entre l’éche-
+lon central et les échelons départementaux.
+
+Il coordonne également les inspections des 
+PIV  situés  dans  sa  zone  de  compétence. 
+
+Préfet de département
+
+Opérateur d’importance vitale
+
+Le  préfet  de  département  approuve, 
+pour  chaque  PIV,  le  plan  particulier  de 
+protection  (PPP)  rédigé  par  l’opérateur. 
+
+élabore 
+
+Il 
+également  un  plan  de 
+protection  externe  (PPE)  comportant  les 
+mesures  de  vigilance  et  d’intervention 
+prévues  en  cas  de  menace  ou  d’atten-
+tat  visant  ce  point  d’importance  vitale.
+
+Une  fois  désignés,  les  opérateurs  doivent 
+répondre à plusieurs types d’obligations : la 
+désignation d’un délégué pour la défense et 
+la  sécurité  (interlocuteur  privilégié  de  l’au-
+torité administrative), la rédaction d’un plan 
+de  sécurité  d’opérateur  (PSO)  qui  décrit 
+l’organisation  et  la  politique  de  sécurité  de 
+l’opérateur,  la  rédaction  de  plans  particu-
+liers  de  protection  (PPP)  pour  chacun  des 
+points d’importance vitale identifiés.
+
+Les opérateurs d’importance vitale, acteurs de la stratégie de sécurité nationale
+
+Le dispositif SAIV met l’opérateur d’importance vitale au centre du dispositif lui offrant ainsi un statut particulier :
+
+- la désignation du délégué à la défense et à la sécurité au sein de l’entreprise. Elle permet à l’autorité adminitrative 
+de disposer d’un interlocuteur unique et habilité au niveau « Confidentiel défense » à qui elle communique directe-
+ment les changements de posture du dispositif VIGIPIRATE ;
+
+- la procédure dite de « criblage ». Elle offre la possibilité à l’OIV de demander à l’autorité administrative de vérifier 
+que les caractéristiques de la personne souhaitant accéder à son PIV ne sont pas incompatibles avec la sécurité du 
+site concerné ;
+
+- le plan de protection externe (PPE). Réalisé sous l’autorité du préfet de département, il complète le dispositif de 
+protection du PIV. Il décrit et planifie les capacités humaines et matérielles de l’Etat pour intervenir sur le PIV. Il 
+prévoit également les mesures de surveillance des zones périphériques. 
+
+La continuité des activités essentielles
+
+Le SGDSN a lancé en 2013 un processus de révision des 
+directives nationales de sécurité. 
+L’un  de  ses  objectifs  est  d’adopter  une  approche  tous 
+risques afin d’inciter les opérateurs à se préparer à faire 
+face à toutes sortes de crises susceptibles d’affecter leur 
+personnel,  leurs  locaux,  leurs  réseaux  et  leurs  installa-
+tions de production en élaborant des plans de continuité 
+d’activité (PCA). 
+
+Ces  documents  sont  une  obligation  pour  les  OIV.  Un 
+guide  méthodologique  d’aide  à  l’élaboration  des  PCA  a 
+été  réalisé  par  le  SGDSN  et  mis  à  disposition  du  grand 
+public en 2013. 
+
+SAIV et VIGIPIRATE
+
+La  sécurité  des  activités  d’importance  vitale  vise  à 
+faciliter  l’application  du  plan  VIGIPIRATE  en  associ-
+ant  les  opérateurs  concernés  à  l’effort  de  vigilance, 
+de  prévention  et  de  protection  contre  le  terrorisme. 
+
+Les opérateurs d’importance vitale doivent décliner dans 
+leurs plans les mesures du plan VIGIPIRATE qui les con-
+cernent  et  doivent  donc  être  en  mesure  de  réagir  aux 
+postures  décidées  par  le  Gouvernement  en  fonction 
+de  l’évolution  de  la  menace  ou  des  vulnérabilités.
+
+La cybersécurité
+
+Dès  2008,  le  Livre  blanc  sur  la  défense  et  la  sécurité 
+nationale  identifiait  les  attaques  contre  les  systèmes 
+d’information  comme  l’une  des  principales  menaces 
+qui  pèsent  sur  notre  défense  et  notre  sécurité  :  «  blo-
+cage  malveillant,  destruction  matérielle,  neutralisation 
+informatique,  vol  ou  altération  de  données,  voire 
+prise  de  contrôle  d’un  dispositif  à  des  fins  hostiles  ». 
+
+Pour faire face aux nouvelles menaces sur les systèmes 
+d’information,  l’article  22  de  la  loi  de  programmation 
+militaire  de  2013  impose  désormais  aux  opérateurs 
+d’importance vitale de renforcer la sécurité des systèmes 
+d’information qu’ils exploitent.
+
+Ces  obligations  s’appliquent  aux  systèmes  d’informa-
+tion  d’importance  vitale  (SIIV)    désignés  par  les  OIV  et 
+comprennent la déclaration d’incidents, la mise en œuvre 
+d’un socle de  règles de sécurité et le recours à des pro-
+duits et à des prestataires de détection qualifiés.
+
+L’  Agence  nationale  de  la  sécurité  des  systèmes  d’infor-
+mation (ANSSI), en charge au sein du SGDSN de la mise 
+en œuvre de ces dispositions, a travaillé en étroite collab-
+oration avec les ministères et les opérateurs pour définir 
+des  règles  à  la  fois  efficaces,  adaptées  et  soutenables 
+pour les opérateurs. 
+
+Plus d’informations : www.ssi.gouv.fr
+
+ 
+ 
+ 
+ 
+ 
+LA SAIV 
+EN QUELQUES CHIFFRES
+
+9 
+MINISTRES
+COORDONNATEURS
+
+12
+SECTEURS D’ACTIVITÉS
+
+22
+DIRECTIVES NATIONALES 
+DE SÉCURITÉ
+
+249
+OPÉRATEURS D’IMPORTANCE
+VITALE
+
+1369
+POINTS D’IMPORTANCE
+VITALE
+
+300
+AGENTS DE L’ÉTAT 
+TRAVAILLANT 
+QUOTIDIENNEMENT 
+SUR LES QUESTIONS DE SAIV
+
+La dimension européenne
+
+Dans  un  marché  unique  européen  où  les  entreprises  sont  de  plus  en  plus 
+l’agression  d’un  opérateur  peuvent 
+interdépendantes, 
+dépasser le territoire d’un seul Etat. La France a donc soutenu et largement 
+contribué aux efforts de l’Union européenne pour développer le Programme 
+européen de protection des infrastructures critiques. 
+
+impacts  de 
+
+les 
+
+Elément  majeur  du  programme  européen,  la  directive  du  Conseil  sur  la 
+désignation  et  la  protection  des  infrastructures  critiques    européennes  du 
+8  décembre  2008  instaure  un  mécanisme  visant  à  identifier  les  infrastruc-
+tures critiques européennes dans les secteurs de l’énergie et des transports.
+
+Cette  directive  constitue  non  seulement  un  cadre  pour  l’amélioration  de  la 
+sécurité  des  grandes  infrastructures  à  vocation  transnationale,  mais  aussi 
+un  encouragement  à  développer  et  à  améliorer  les  dispositifs  nationaux  de 
+sécurité  des  activités  d’importance  vitale  dans  chacun  des  Etats  membres, 
+afin  d’éviter  des  distorsions  de  concurrence  et  de  contribuer  à  une  meil-
+leure  sécurité  des  activités  économiques  et  des  citoyens,  c’est-à-dire  à  une 
+résilience à l’échelle de l’Union européenne. 
+
+La répartition des OIV par secteur
+
+A propos du SGDSN
+Service  du  Premier  ministre  travaillant  en  liaison  étroite  avec  le  Prés-
+ident  de  la  République,  le  secrétariat  général  de  la  défense  et  de  la  sécurité 
+nationale  (SGDSN)  assiste  le  chef  du  Gouvernement  dans  l’exercice  de  ses 
+responsabilités  en  matière  de  défense  et  de  sécurité  nationale. 
+Il est chargé de l’animation et de la coordination interministérielles.
+
+Plus d’informations : www.sgdsn.gouv.fr
+
+Textes de référence
+•Code de la défense – articles L. 1332-1 à L. 1332-7, L. 2151-1 à L.2151-5 et 
+R. 1332-1 à R. 1332-42.
+•Instruction  générale  interministérielle  n°  6600  relative  à  la  sécurité  des 
+activités d’importance vitale du 7 janvier 2014.
+•Directive  2008/114/CE  du  Conseil  du  8  décembre  2008  concernant  le 
+recensement  et  la  désignation  des  infrastructures  critiques  européennes
+ainsi que l’évaluation de la nécessité d’améliorer leur protection.
+
+

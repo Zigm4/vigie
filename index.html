@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, viewport-fit=cover"
+    />
+    <meta name="theme-color" content="#0c0d10" />
+    <meta
+      name="description"
+      content="Compagnon de révision sur le cadre réglementaire cyber français (Diffusion Restreinte / II901, LPM, NIS2). Contenu pédagogique non officiel, tiré des textes publics."
+    />
+    <!-- Polices self-hostées dans src/assets (aucune requête tierce : pas de CDN, pas de tracker). -->
+    <title>Vigie, révision cadre cyber FR</title>
+  </head>
+  <body>
+    <!-- Décor de fond persistant (halos + matrice de points + grain), hors du cycle de rendu. -->
+    <div class="bg" aria-hidden="true">
+      <i class="bg-glow bg-glow-a"></i>
+      <i class="bg-glow bg-glow-b"></i>
+      <i class="bg-dots"></i>
+      <i class="bg-grain"></i>
+    </div>
+    <div id="app" aria-live="polite"></div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
